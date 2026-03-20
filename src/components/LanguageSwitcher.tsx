@@ -32,7 +32,13 @@ export default function LanguageSwitcher() {
   }, [])
 
   function switchLocale(next: string) {
-    router.replace(pathname, { locale: next })
+    const currentPath = window.location.pathname
+    const segments = currentPath.split('/').filter(Boolean)
+    const withoutLocale = routing.locales.includes(segments[0] as never)
+      ? '/' + segments.slice(1).join('/')
+      : currentPath
+    const cleanPath = withoutLocale || '/'
+    router.replace(cleanPath as never, { locale: next })
     setOpen(false)
   }
 
