@@ -2,7 +2,6 @@
 
 import { useLocale } from 'next-intl'
 import { usePathname as useNativePathname } from 'next/navigation'
-import { useRouter, usePathname } from '@/navigation'
 import { routing } from '@/i18n/routing'
 import { useState, useRef, useEffect } from 'react'
 
@@ -18,16 +17,11 @@ const localeLabels: Record<string, { short: string; label: string; flag: string 
 }
 
 export default function LanguageSwitcher() {
-  // useNativePathname: e.g. '/ru/servicii' — used ONLY to derive active locale for display
+  // useNativePathname: e.g. '/ro/servicii' — used to derive active locale for display
   const nativePathname = useNativePathname()
   const localeFromPath = nativePathname.split('/')[1] as Locale
   const localeFromCtx  = useLocale()
   const locale = routing.locales.includes(localeFromPath) ? localeFromPath : localeFromCtx
-
-  // usePathname from @/navigation returns the typed canonical path (e.g. '/services/plumbing')
-  // already stripped of locale — used for typed router.replace
-  const canonicalPathname = usePathname()
-  const router = useRouter()
 
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
@@ -43,7 +37,11 @@ export default function LanguageSwitcher() {
   }, [])
 
   function switchLocale(next: string) {
-    router.replace(canonicalPathname, { locale: next })
+    // nativePathname = '/ro/servicii/loodgieter'
+    // segments[0]='' segments[1]='ro' segments[2..]='servicii/loodgieter'
+    const segments = nativePathname.split('/')
+    const rest = segments.slice(2).join('/')
+    window.location.href = rest ? `/${next}/${rest}` : `/${next}`
     setOpen(false)
   }
 
