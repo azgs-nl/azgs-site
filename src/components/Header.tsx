@@ -1,4 +1,4 @@
-import { getTranslations, getLocale } from 'next-intl/server'
+import { getTranslations } from 'next-intl/server'
 import { Link } from '@/navigation'
 import NavDropdown from './NavDropdown'
 import MobileMenu from './MobileMenu'
@@ -6,8 +6,7 @@ import LanguageSwitcher from './LanguageSwitcher'
 import type { DropdownItem } from './NavDropdown'
 
 export default async function Header() {
-  const locale = await getLocale()
-  const t = await getTranslations({ locale, namespace: 'Navigation' })
+  const t = await getTranslations('Navigation')
 
   const servicesItems: DropdownItem[] = [
     { href: '/services/plumbing',          label: t('plumbing') },
