@@ -1,0 +1,157 @@
+{
+  "About": {
+    "title": "Over AZGS — Uw Betrouwbare Partner in Amsterdam",
+    "description": "Meer dan 10 jaar ervaring in installaties en renovaties in Amsterdam. Gecertificeerd, verzekerd en 100% klanttevredenheid.",
+    "hero": {
+      "badge": "Over Ons",
+      "title": "Over AZGS",
+      "subtitle": "Meer dan 10 jaar uw betrouwbare partner voor installaties en renovaties in Amsterdam en omstreken."
+    },
+    "story": {
+      "title": "Ons Verhaal",
+      "text": "AZGS is opgericht met één doel: betrouwbare, vakkundige service leveren aan particulieren en bedrijven in de Amsterdamse regio. Ons team bestaat uit gecertificeerde monteurs en renovatiespecialisten die trots zijn op hun werk."
+    },
+    "values": {
+      "title": "Onze Waarden",
+      "item1": "Vakmanschap",
+      "item2": "Betrouwbaarheid",
+      "item3": "Transparantie",
+      "item4": "Klantgerichtheid"
+    },
+    "cta": {
+      "title": "Klaar om samen te werken?",
+      "btn": "Neem Contact Op"
+    }
+  },
+  "Contact": {
+    "title": "Contact AZGS — Bel of Mail Ons",
+    "description": "Neem contact op met AZGS voor een vrijblijvende offerte of spoedgeval. 24/7 bereikbaar.",
+    "hero": {
+      "badge": "Contact",
+      "title": "Neem Contact Op",
+      "subtitle": "Voor offertes, vragen of spoedgevallen. Wij reageren binnen 1 uur."
+    },
+    "phone": {
+      "title": "Telefoon",
+      "value": "+31 20 000 0000",
+      "note": "Ma-Za 08:00–20:00 · Spoed 24/7"
+    },
+    "email": {
+      "title": "E-mail",
+      "value": "info@azgs.nl",
+      "note": "Reactie binnen 2 uur op werkdagen"
+    },
+    "address": {
+      "title": "Werkgebied",
+      "value": "Amsterdam & Omstreken",
+      "note": "Noord-Holland"
+    },
+    "formPlaceholder": "Contactformulier volgt in Module 3"
+  },
+  "Emergency": {
+    "title": "Spoed Loodgieter & Elektricien Amsterdam | 24/7 AZGS",
+    "description": "Spoedgeval met uw loodgieter, elektricien of verwarming? AZGS is 24/7 bereikbaar in Amsterdam. Binnen 1 uur ter plaatse.",
+    "hero": {
+      "badge": "Spoed 24/7",
+      "title": "Spoedservice Amsterdam",
+      "subtitle": "Lekkage, elektrisch probleem of verwarmingsstoring? Wij zijn 24/7 bereikbaar en binnen 1 uur ter plaatse.",
+      "ctaPrimary": "Bel Nu — Spoed",
+      "ctaSecondary": "Meer Informatie"
+    },
+    "urgentTitle": "Bel Direct:",
+    "phone": "+31 20 000 0000",
+    "services": {
+      "title": "Spoeddiensten",
+      "item1": "Lekkage & Waterschade",
+      "item2": "Elektrisch Storing",
+      "item3": "CV-ketel Storing",
+      "item4": "Verstopping Riool",
+      "item5": "Airconditioning Storing"
+    },
+    "promise": {
+      "title": "Onze Beloftes",
+      "item1": "Binnen 1-2 uur ter plaatse in Amsterdam",
+      "item2": "24/7 bereikbaar, ook in het weekend",
+      "item3": "Transparante spoedtarieven — geen verborgen kosten",
+      "item4": "Gecertificeerde monteurs"
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen Spoed",
+      "q1": "Hoe snel is AZGS ter plaatse bij een noodgeval?",
+      "a1": "Bij noodgevallen streven wij ernaar binnen 1 uur ter plaatse te zijn in Amsterdam.",
+      "q2": "Werkt AZGS ook 's nachts?",
+      "a2": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief nacht, weekend en feestdagen.",
+      "q3": "Wat kost een spoedoproep?",
+      "a3": "Wij werken met transparante spoedtarieven. U ontvangt altijd een prijsindicatie telefonisch.",
+      "q4": "Voor welke spoedgevallen kan ik AZGS bellen?",
+      "a4": "Lekkage, elektrisch storing, CV-ketel defect, verstopping, airconditioning storing en meer.",
+      "q5": "Werkt AZGS ook in mijn regio?",
+      "a5": "Wij werken in Amsterdam en omstreken, inclusief Amstelveen, Diemen, Zaandam en Haarlem."
+    },
+    "cta": {
+      "title": "Heeft u een spoedsituatie?",
+      "text": "Bel ons direct. Onze spoedlijn is dag en nacht bereikbaar.",
+      "btn": "Bel Spoedlijn Nu"
+    }
+  },
+  "Privacy": {
+    "title": "Privacybeleid | AZGS",
+    "description": "Lees het privacybeleid van AZGS. Wij verwerken uw persoonsgegevens conform de AVG.",
+    "hero": {
+      "title": "Privacybeleid"
+    },
+    "lastUpdated": "Laatste update: januari 2025",
+    "intro": "AZGS respecteert uw privacy en verwerkt persoonsgegevens conform de Algemene Verordening Gegevensbescherming (AVG).",
+    "section1": {
+      "title": "Welke gegevens verzamelen wij?",
+      "text": "Wij verzamelen alleen de gegevens die noodzakelijk zijn voor het uitvoeren van onze diensten, zoals naam, contactgegevens en projectinformatie."
+    },
+    "section2": {
+      "title": "Hoe gebruiken wij uw gegevens?",
+      "text": "Uw gegevens worden uitsluitend gebruikt voor het uitvoeren van werkzaamheden, offerteverzoeken en klantcommunicatie. Wij verkopen nooit persoonsgegevens aan derden."
+    },
+    "section3": {
+      "title": "Uw rechten",
+      "text": "U heeft het recht uw gegevens in te zien, te corrigeren of te laten verwijderen. Neem hiervoor contact op via onderstaand e-mailadres."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "Voor vragen over ons privacybeleid kunt u contact opnemen via:"
+    }
+  },
+  "Terms": {
+    "title": "Algemene Voorwaarden | AZGS",
+    "description": "Lees de algemene voorwaarden van AZGS voor installatie- en renovatiediensten in Amsterdam.",
+    "hero": {
+      "title": "Algemene Voorwaarden"
+    },
+    "lastUpdated": "Laatste update: januari 2025",
+    "intro": "Deze algemene voorwaarden zijn van toepassing op alle overeenkomsten tussen AZGS en haar opdrachtgevers.",
+    "section1": {
+      "title": "Offertes en overeenkomsten",
+      "text": "Alle offertes van AZGS zijn vrijblijvend en geldig gedurende 30 dagen na dagtekening. Een overeenkomst komt tot stand na schriftelijke bevestiging."
+    },
+    "section2": {
+      "title": "Uitvoering en garantie",
+      "text": "AZGS voert werkzaamheden uit conform de geldende Nederlandse normen. Op alle werkzaamheden geldt een garantietermijn van 12 maanden."
+    },
+    "section3": {
+      "title": "Betaling",
+      "text": "Betaling dient te geschieden binnen 14 dagen na factuurdatum. Bij niet-tijdige betaling is AZGS gerechtigd wettelijke rente in rekening te brengen."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "Voor vragen over onze algemene voorwaarden kunt u contact opnemen via:"
+    }
+  },
+  "Projects": {
+    "title": "Onze Projecten | AZGS Amsterdam",
+    "description": "Bekijk de afgeronde installatie- en renovatieprojecten van AZGS in Amsterdam en omstreken.",
+    "hero": {
+      "badge": "Projecten",
+      "title": "Onze Projecten",
+      "subtitle": "Een selectie van afgeronde installatie- en renovatieprojecten in Amsterdam en omstreken."
+    },
+    "placeholder": "Projectgalerij volgt binnenkort."
+  }
+}

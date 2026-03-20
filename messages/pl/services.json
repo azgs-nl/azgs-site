@@ -1,0 +1,542 @@
+{
+  "ServicesIndex": {
+    "title": "Usługi Instalacyjne Amsterdam | AZGS",
+    "description": "Profesjonalne usługi usługi instalacyjne w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Usługi Instalacyjne",
+      "subtitle": "Usługi usługi instalacyjne w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z usługi instalacyjne?",
+      "text": "AZGS rozwiązuje problemy z usługi instalacyjne szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Plumbing": {
+    "title": "Hydraulik Amsterdam | AZGS",
+    "description": "Profesjonalne usługi hydraulik w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Hydraulik",
+      "subtitle": "Usługi hydraulik w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z hydraulik?",
+      "text": "AZGS rozwiązuje problemy z hydraulik szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Electrical": {
+    "title": "Elektryk Amsterdam | AZGS",
+    "description": "Profesjonalne usługi elektryk w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Elektryk",
+      "subtitle": "Usługi elektryk w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z elektryk?",
+      "text": "AZGS rozwiązuje problemy z elektryk szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Heating": {
+    "title": "Ogrzewanie Amsterdam | AZGS",
+    "description": "Profesjonalne usługi ogrzewanie w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Ogrzewanie",
+      "subtitle": "Usługi ogrzewanie w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z ogrzewanie?",
+      "text": "AZGS rozwiązuje problemy z ogrzewanie szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Ventilation": {
+    "title": "Wentylacja Amsterdam | AZGS",
+    "description": "Profesjonalne usługi wentylacja w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Wentylacja",
+      "subtitle": "Usługi wentylacja w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z wentylacja?",
+      "text": "AZGS rozwiązuje problemy z wentylacja szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "AirConditioning": {
+    "title": "Klimatyzacja Amsterdam | AZGS",
+    "description": "Profesjonalne usługi klimatyzacja w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Klimatyzacja",
+      "subtitle": "Usługi klimatyzacja w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z klimatyzacja?",
+      "text": "AZGS rozwiązuje problemy z klimatyzacja szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "UnderfloorHeating": {
+    "title": "Ogrzewanie Podłogowe Amsterdam | AZGS",
+    "description": "Profesjonalne usługi ogrzewanie podłogowe w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Ogrzewanie Podłogowe",
+      "subtitle": "Usługi ogrzewanie podłogowe w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z ogrzewanie podłogowe?",
+      "text": "AZGS rozwiązuje problemy z ogrzewanie podłogowe szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "BoilerInstallation": {
+    "title": "Instalacja Kotła Amsterdam | AZGS",
+    "description": "Profesjonalne usługi instalacja kotła w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Instalacja Kotła",
+      "subtitle": "Usługi instalacja kotła w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z instalacja kotła?",
+      "text": "AZGS rozwiązuje problemy z instalacja kotła szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "HeatPump": {
+    "title": "Pompa Ciepła Amsterdam | AZGS",
+    "description": "Profesjonalne usługi pompa ciepła w Amsterdamie. Certyfikowani technicy, szybka reakcja.",
+    "hero": {
+      "badge": "Usługi Instalacyjne",
+      "title": "Profesjonalny Pompa Ciepła",
+      "subtitle": "Usługi pompa ciepła w Amsterdamie. Szybko, rzetelnie i z certyfikatem.",
+      "ctaPrimary": "Zadzwoń Teraz",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Problemy z pompa ciepła?",
+      "text": "AZGS rozwiązuje problemy z pompa ciepła szybko i profesjonalnie — w tym awaryjnie poza godzinami pracy."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna inspekcja i wycena",
+      "item2": "Certyfikowani technicy",
+      "item3": "Materiały markowe",
+      "item4": "Gwarancja na pracę",
+      "item5": "Czyste miejsce pracy",
+      "item6": "Szczegółowa faktura"
+    },
+    "advantages": {
+      "title": "Dlaczego AZGS?",
+      "item1": "10+ lat w Amsterdamie",
+      "item2": "Certyfikowany i ubezpieczony",
+      "item3": "Przejrzyste ceny",
+      "item4": "Pogotowie 24/7"
+    },
+    "process": {
+      "title": "Jak to działa?",
+      "step1Title": "Skontaktuj się",
+      "step1Text": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny.",
+      "step2Title": "Inspekcja i wycena",
+      "step2Text": "Bezpłatna inspekcja i oferta bez zobowiązań.",
+      "step3Title": "Realizacja",
+      "step3Text": "Profesjonalna i staranna praca.",
+      "step4Title": "Odbiór",
+      "step4Text": "Odbiór z gwarancją i przejrzystą fakturą."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "q1": "Jak szybko AZGS reaguje na awarię?",
+      "a1": "W przypadku awarii jesteśmy zazwyczaj na miejscu w ciągu 1-2 godzin w Amsterdamie.",
+      "q2": "Czy AZGS udziela gwarancji?",
+      "a2": "Tak, udzielamy 12 miesięcy gwarancji na wszystkie prace i materiały.",
+      "q3": "Czy AZGS pracuje poza godzinami biurowymi?",
+      "a3": "Tak, nasza linia awaryjna jest czynna 24/7 w tym w weekendy.",
+      "q4": "Czy otrzymam wycenę z góry?",
+      "a4": "Zawsze. Pisemna wycena przed rozpoczęciem. Bez ukrytych kosztów.",
+      "q5": "Czy AZGS jest certyfikowany?",
+      "a5": "Tak, wszyscy nasi technicy są certyfikowani i pracują zgodnie z normami holenderskimi."
+    },
+    "cta": {
+      "title": "Gotowy do działania?",
+      "text": "Poproś o bezpłatną wycenę już dziś.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  }
+}

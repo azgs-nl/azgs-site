@@ -1,0 +1,157 @@
+{
+  "About": {
+    "title": "Despre AZGS — Partenerul Dumneavoastră în Amsterdam",
+    "description": "Peste 10 ani experiență în instalații și renovări în Amsterdam.",
+    "hero": {
+      "badge": "Despre Noi",
+      "title": "Despre AZGS",
+      "subtitle": "Partenerul dumneavoastră de încredere pentru instalații și renovări în Amsterdam."
+    },
+    "story": {
+      "title": "Povestea noastră",
+      "text": "AZGS a fost fondată cu un singur scop: a oferi servicii de calitate locuitorilor și firmelor din Amsterdam."
+    },
+    "values": {
+      "title": "Valorile noastre",
+      "item1": "Meșteșug",
+      "item2": "Fiabilitate",
+      "item3": "Transparență",
+      "item4": "Orientare spre client"
+    },
+    "cta": {
+      "title": "Gata să colaborăm?",
+      "btn": "Contactați-ne"
+    }
+  },
+  "Contact": {
+    "title": "Contact AZGS — Sunați sau Trimiteți Email",
+    "description": "Contactați AZGS pentru un deviz gratuit sau urgențe. Disponibil 24/7.",
+    "hero": {
+      "badge": "Contact",
+      "title": "Luați Legătura",
+      "subtitle": "Pentru devize, întrebări sau urgențe. Răspundem în 1 oră."
+    },
+    "phone": {
+      "title": "Telefon",
+      "value": "+31 20 000 0000",
+      "note": "Lun-Sâm 08:00–20:00 · Urgențe 24/7"
+    },
+    "email": {
+      "title": "Email",
+      "value": "info@azgs.nl",
+      "note": "Răspuns în 2 ore în zilele lucrătoare"
+    },
+    "address": {
+      "title": "Zonă de servicii",
+      "value": "Amsterdam și Împrejurimi",
+      "note": "Noord-Holland"
+    },
+    "formPlaceholder": "Formularul de contact urmează în Modulul 3"
+  },
+  "Emergency": {
+    "title": "Urgențe Instalații Amsterdam | 24/7 AZGS",
+    "description": "Urgențe sanitare, electrice sau de încălzire în Amsterdam? AZGS disponibil 24/7. Intervenție în 1 oră.",
+    "hero": {
+      "badge": "Urgențe 24/7",
+      "title": "Serviciu de Urgență Amsterdam",
+      "subtitle": "Scurgeri, probleme electrice sau defecțiuni termice? Suntem disponibili 24/7.",
+      "ctaPrimary": "Sună Acum — Urgență",
+      "ctaSecondary": "Mai Multe Informații"
+    },
+    "urgentTitle": "Sună Direct:",
+    "phone": "+31 20 000 0000",
+    "services": {
+      "title": "Servicii de Urgență",
+      "item1": "Scurgeri & Inundații",
+      "item2": "Defecțiuni Electrice",
+      "item3": "Centrală Termică",
+      "item4": "Canalizare Blocată",
+      "item5": "Defecțiuni AC"
+    },
+    "promise": {
+      "title": "Promisiunile Noastre",
+      "item1": "La fața locului în 1-2 ore în Amsterdam",
+      "item2": "Disponibil 24/7 inclusiv weekenduri",
+      "item3": "Tarife de urgență transparente",
+      "item4": "Tehnicieni certificați"
+    },
+    "faq": {
+      "title": "Întrebări Frecvente Urgențe",
+      "q1": "Cât de repede ajunge AZGS la o urgență?",
+      "a1": "Urmărim să ajungem în 1 oră în Amsterdam.",
+      "q2": "Lucrează AZGS noaptea?",
+      "a2": "Da, linia de urgențe este disponibilă 24/7.",
+      "q3": "Cât costă un apel de urgență?",
+      "a3": "Lucrăm cu tarife transparente. Primiți o indicație telefonică.",
+      "q4": "Pentru ce urgențe pot suna?",
+      "a4": "Scurgeri, defecțiuni electrice, centrale termice, canalizare și altele.",
+      "q5": "Lucrează AZGS în zona mea?",
+      "a5": "Lucrăm în Amsterdam și împrejurimi."
+    },
+    "cta": {
+      "title": "Situație de urgență?",
+      "text": "Sunați-ne direct. Linia de urgențe este disponibilă zi și noapte.",
+      "btn": "Sună Linia de Urgențe"
+    }
+  },
+  "Privacy": {
+    "title": "Politica de Confidențialitate | AZGS",
+    "description": "Citiți politica de confidențialitate AZGS. Prelucrăm datele dvs. personale conform GDPR.",
+    "hero": {
+      "title": "Politica de Confidențialitate"
+    },
+    "lastUpdated": "Ultima actualizare: ianuarie 2025",
+    "intro": "AZGS respectă confidențialitatea dvs. și prelucrează datele personale conform Regulamentului General privind Protecția Datelor (GDPR).",
+    "section1": {
+      "title": "Ce date colectăm?",
+      "text": "Colectăm doar datele necesare pentru furnizarea serviciilor noastre, cum ar fi numele, datele de contact și informațiile despre proiect."
+    },
+    "section2": {
+      "title": "Cum folosim datele dvs.?",
+      "text": "Datele dvs. sunt folosite exclusiv pentru executarea lucrărilor, cereri de ofertă și comunicare cu clienții. Nu vindem niciodată date personale terților."
+    },
+    "section3": {
+      "title": "Drepturile dvs.",
+      "text": "Aveți dreptul de a accesa, corecta sau șterge datele dvs. Contactați-ne la adresa de e-mail de mai jos."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "Pentru întrebări despre politica noastră de confidențialitate, contactați-ne la:"
+    }
+  },
+  "Terms": {
+    "title": "Termeni și Condiții | AZGS",
+    "description": "Citiți termenii și condițiile AZGS pentru servicii de instalații și renovare în Amsterdam.",
+    "hero": {
+      "title": "Termeni și Condiții"
+    },
+    "lastUpdated": "Ultima actualizare: ianuarie 2025",
+    "intro": "Acești termeni și condiții se aplică tuturor acordurilor dintre AZGS și clienții săi.",
+    "section1": {
+      "title": "Oferte și acorduri",
+      "text": "Toate ofertele AZGS sunt neobligatorii și valabile timp de 30 de zile de la data emiterii. Un acord se stabilește prin confirmare scrisă."
+    },
+    "section2": {
+      "title": "Execuție și garanție",
+      "text": "AZGS execută lucrările conform standardelor olandeze aplicabile. Toate lucrările beneficiază de o garanție de 12 luni."
+    },
+    "section3": {
+      "title": "Plată",
+      "text": "Plata trebuie efectuată în termen de 14 zile de la data facturii. În caz de întârziere, AZGS are dreptul de a percepe dobândă legală."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "Pentru întrebări despre termenii și condițiile noastre, contactați-ne la:"
+    }
+  },
+  "Projects": {
+    "title": "Proiectele Noastre | AZGS Amsterdam",
+    "description": "Vizualizați proiectele de instalații și renovare finalizate de AZGS în Amsterdam.",
+    "hero": {
+      "badge": "Proiecte",
+      "title": "Proiectele Noastre",
+      "subtitle": "O selecție de proiecte de instalații și renovare finalizate în Amsterdam și împrejurimi."
+    },
+    "placeholder": "Galeria de proiecte urmează în curând."
+  }
+}

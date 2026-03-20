@@ -1,0 +1,157 @@
+{
+  "About": {
+    "title": "O AZGS — Twój Zaufany Partner w Amsterdamie",
+    "description": "Ponad 10 lat doświadczenia w instalacjach i renowacjach w Amsterdamie.",
+    "hero": {
+      "badge": "O Nas",
+      "title": "O AZGS",
+      "subtitle": "Twój zaufany partner w zakresie instalacji i renowacji w Amsterdamie."
+    },
+    "story": {
+      "title": "Nasza historia",
+      "text": "AZGS zostało założone z jednym celem: świadczenie niezawodnych, fachowych usług dla mieszkańców Amsterdamu."
+    },
+    "values": {
+      "title": "Nasze wartości",
+      "item1": "Rzemiosło",
+      "item2": "Niezawodność",
+      "item3": "Przejrzystość",
+      "item4": "Orientacja na klienta"
+    },
+    "cta": {
+      "title": "Gotowy do współpracy?",
+      "btn": "Skontaktuj się"
+    }
+  },
+  "Contact": {
+    "title": "Kontakt AZGS — Zadzwoń lub Napisz",
+    "description": "Skontaktuj się z AZGS po bezpłatną wycenę lub w nagłym przypadku. Dostępni 24/7.",
+    "hero": {
+      "badge": "Kontakt",
+      "title": "Skontaktuj się z Nami",
+      "subtitle": "W sprawach wycen, pytań lub awarii. Odpowiadamy w ciągu 1 godziny."
+    },
+    "phone": {
+      "title": "Telefon",
+      "value": "+31 20 000 0000",
+      "note": "Pon-Sob 08:00–20:00 · Pogotowie 24/7"
+    },
+    "email": {
+      "title": "E-mail",
+      "value": "info@azgs.nl",
+      "note": "Odpowiedź w 2 godziny w dni robocze"
+    },
+    "address": {
+      "title": "Obszar obsługi",
+      "value": "Amsterdam i Okolice",
+      "note": "Noord-Holland"
+    },
+    "formPlaceholder": "Formularz kontaktowy w Module 3"
+  },
+  "Emergency": {
+    "title": "Pogotowie Hydrauliczne i Elektryczne Amsterdam | 24/7 AZGS",
+    "description": "Awaria hydrauliczna, elektryczna lub grzewcza w Amsterdamie? AZGS dostępny 24/7.",
+    "hero": {
+      "badge": "Pogotowie 24/7",
+      "title": "Pogotowie Amsterdam",
+      "subtitle": "Wyciek, awaria elektryczna lub ogrzewania? Jesteśmy dostępni 24/7.",
+      "ctaPrimary": "Zadzwoń Teraz — Awaria",
+      "ctaSecondary": "Więcej Informacji"
+    },
+    "urgentTitle": "Zadzwoń Bezpośrednio:",
+    "phone": "+31 20 000 0000",
+    "services": {
+      "title": "Usługi Awaryjne",
+      "item1": "Wyciek & Zalanie",
+      "item2": "Awaria Elektryczna",
+      "item3": "Awaria Kotła",
+      "item4": "Zatkana Kanalizacja",
+      "item5": "Awaria Klimatyzacji"
+    },
+    "promise": {
+      "title": "Nasze Obietnice",
+      "item1": "Na miejscu w 1-2 godz. w Amsterdamie",
+      "item2": "Dostępni 24/7 w tym weekendy",
+      "item3": "Przejrzyste taryfy awaryjne",
+      "item4": "Certyfikowani technicy"
+    },
+    "faq": {
+      "title": "FAQ Pogotowie",
+      "q1": "Jak szybko przyjedzie AZGS?",
+      "a1": "W nagłych przypadkach staramy się dotrzeć w ciągu 1 godziny.",
+      "q2": "Czy AZGS pracuje w nocy?",
+      "a2": "Tak, linia awaryjna jest czynna 24/7.",
+      "q3": "Ile kosztuje wyjazd awaryjny?",
+      "a3": "Pracujemy z przejrzystymi taryfami. Zawsze podajemy cenę przez telefon.",
+      "q4": "W jakich awariach można dzwonić?",
+      "a4": "Wycieki, awarie elektryczne, kotły, zatkana kanalizacja i inne.",
+      "q5": "Czy AZGS działa w moim rejonie?",
+      "a5": "Działamy w Amsterdamie i okolicach."
+    },
+    "cta": {
+      "title": "Sytuacja awaryjna?",
+      "text": "Zadzwoń bezpośrednio.",
+      "btn": "Zadzwoń Na Pogotowie"
+    }
+  },
+  "Privacy": {
+    "title": "Polityka Prywatności | AZGS",
+    "description": "Przeczytaj politykę prywatności AZGS. Przetwarzamy Twoje dane osobowe zgodnie z RODO.",
+    "hero": {
+      "title": "Polityka Prywatności"
+    },
+    "lastUpdated": "Ostatnia aktualizacja: styczeń 2025",
+    "intro": "AZGS szanuje Twoją prywatność i przetwarza dane osobowe zgodnie z Ogólnym Rozporządzeniem o Ochronie Danych (RODO).",
+    "section1": {
+      "title": "Jakie dane zbieramy?",
+      "text": "Zbieramy tylko dane niezbędne do świadczenia naszych usług, takie jak imię i nazwisko, dane kontaktowe oraz informacje o projekcie."
+    },
+    "section2": {
+      "title": "Jak używamy Twoich danych?",
+      "text": "Twoje dane są używane wyłącznie do realizacji prac, zapytań ofertowych i komunikacji z klientami. Nigdy nie sprzedajemy danych osobowych osobom trzecim."
+    },
+    "section3": {
+      "title": "Twoje prawa",
+      "text": "Masz prawo dostępu, poprawienia lub usunięcia swoich danych. Skontaktuj się z nami pod adresem e-mail poniżej."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "W przypadku pytań dotyczących naszej polityki prywatności skontaktuj się z nami pod adresem:"
+    }
+  },
+  "Terms": {
+    "title": "Regulamin | AZGS",
+    "description": "Przeczytaj regulamin AZGS dotyczący usług instalacyjnych i remontowych w Amsterdamie.",
+    "hero": {
+      "title": "Regulamin"
+    },
+    "lastUpdated": "Ostatnia aktualizacja: styczeń 2025",
+    "intro": "Niniejszy regulamin ma zastosowanie do wszystkich umów między AZGS a jej klientami.",
+    "section1": {
+      "title": "Oferty i umowy",
+      "text": "Wszystkie oferty AZGS są niewiążące i ważne przez 30 dni od daty wystawienia. Umowa zostaje zawarta po pisemnym potwierdzeniu."
+    },
+    "section2": {
+      "title": "Realizacja i gwarancja",
+      "text": "AZGS wykonuje prace zgodnie z obowiązującymi normami holenderskimi. Na wszystkie prace obowiązuje 12-miesięczna gwarancja."
+    },
+    "section3": {
+      "title": "Płatność",
+      "text": "Płatność musi zostać dokonana w ciągu 14 dni od daty faktury. W przypadku opóźnienia AZGS ma prawo naliczyć odsetki ustawowe."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "W przypadku pytań dotyczących naszego regulaminu skontaktuj się z nami pod adresem:"
+    }
+  },
+  "Projects": {
+    "title": "Nasze Projekty | AZGS Amsterdam",
+    "description": "Zobacz zrealizowane projekty instalacyjne i remontowe AZGS w Amsterdamie i okolicach.",
+    "hero": {
+      "badge": "Projekty",
+      "title": "Nasze Projekty",
+      "subtitle": "Wybór zrealizowanych projektów instalacyjnych i remontowych w Amsterdamie i okolicach."
+    },
+    "placeholder": "Galeria projektów wkrótce."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Home": {
+    "badge": "Witamy w AZGS",
+    "heroTitle": "Profesjonalne usługi w całej Holandii",
+    "heroSubtitle": "Świadczymy niezawodne i osobiste usługi dla firm i osób prywatnych. Szybko załatwione, zawsze przejrzyście.",
+    "ctaPrimary": "Skontaktuj się",
+    "ctaSecondary": "Nasze usługi",
+    "featuresTitle": "Dlaczego wybrać AZGS?",
+    "featuresSubtitle": "Nasi klienci wybierają nas, ponieważ łączymy jakość, niezawodność i osobiste podejście.",
+    "feature1Title": "Niezawodny",
+    "feature1Text": "Od lat dostarczamy stałą jakość. Nasi klienci wiedzą, że mogą na nas liczyć.",
+    "feature2Title": "Osobisty",
+    "feature2Text": "Nie jesteśmy dużą anonimową organizacją. Zawsze masz stały kontakt, który zna Twoją sytuację.",
+    "feature3Title": "Przejrzysty",
+    "feature3Text": "Jasne stawki, żadnych niespodzianek. Zawsze wiesz z góry, czego się spodziewać.",
+    "ctaBannerTitle": "Gotowy, aby zacząć?",
+    "ctaBannerText": "Skontaktuj się z nami już dziś i otrzymaj bezpłatną wycenę w ciągu 24 godzin.",
+    "ctaBannerBtn": "Zapytaj o wycenę"
+  }
+}

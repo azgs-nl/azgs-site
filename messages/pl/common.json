@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Instalacje & Renowacje | Amsterdam",
+    "description": "Profesjonalne usługi hydrauliczne, elektryczne, grzewcze i remontowe w Amsterdamie. Pogotowie 24/7."
+  },
+  "Navigation": {
+    "home": "Strona Główna",
+    "services": "Instalacje",
+    "renovation": "Renowacje",
+    "emergency": "Pogotowie 24/7",
+    "about": "O Nas",
+    "contact": "Kontakt",
+    "cta": "Zadzwoń",
+    "plumbing": "Hydraulik",
+    "electrical": "Elektryk",
+    "heating": "Ogrzewanie",
+    "ventilation": "Wentylacja",
+    "airConditioning": "Klimatyzacja",
+    "underfloorHeating": "Ogrzewanie Podłogowe",
+    "boilerInstallation": "Instalacja Kotła",
+    "heatPump": "Pompa Ciepła",
+    "apartmentRenovation": "Remont Mieszkania",
+    "bathroomRenovation": "Remont Łazienki",
+    "kitchenRenovation": "Remont Kuchni",
+    "drywall": "Zabudowa Gipsowa",
+    "painting": "Malowanie",
+    "plastering": "Tynkowanie",
+    "flooring": "Podłogi",
+    "tileInstallation": "Układanie Płytek",
+    "projects": "Projekty"
+  },
+  "Footer": {
+    "tagline": "Twój zaufany partner w zakresie instalacji i renowacji w Amsterdamie.",
+    "linksTitle": "Nawigacja",
+    "contactTitle": "Kontakt",
+    "linkHome": "Strona Główna",
+    "linkAbout": "O Nas",
+    "linkServices": "Usługi",
+    "linkContact": "Kontakt",
+    "privacy": "Polityka Prywatności",
+    "terms": "Regulamin",
+    "allRights": "Wszelkie prawa zastrzeżone.",
+    "serviceArea": "Amsterdam i okolice"
+  }
+}

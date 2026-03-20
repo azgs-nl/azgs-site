@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Instalații & Renovări | Amsterdam",
+    "description": "Instalații sanitare, electrice, termice și renovări în Amsterdam. Serviciu de urgență 24/7."
+  },
+  "Navigation": {
+    "home": "Acasă",
+    "services": "Instalații",
+    "renovation": "Renovări",
+    "emergency": "Urgențe 24/7",
+    "about": "Despre Noi",
+    "contact": "Contact",
+    "cta": "Sună Acum",
+    "plumbing": "Instalații Sanitare",
+    "electrical": "Instalații Electrice",
+    "heating": "Încălzire",
+    "ventilation": "Ventilație",
+    "airConditioning": "Aer Condiționat",
+    "underfloorHeating": "Încălzire Pardoseală",
+    "boilerInstallation": "Instalare Centrală",
+    "heatPump": "Pompă de Căldură",
+    "apartmentRenovation": "Renovare Apartament",
+    "bathroomRenovation": "Renovare Baie",
+    "kitchenRenovation": "Renovare Bucătărie",
+    "drywall": "Gips-Carton",
+    "painting": "Zugrăveli",
+    "plastering": "Tencuieli",
+    "flooring": "Pardoseli",
+    "tileInstallation": "Faianță & Gresie",
+    "projects": "Proiecte"
+  },
+  "Footer": {
+    "tagline": "Partenerul dumneavoastră de încredere pentru instalații și renovări în Amsterdam.",
+    "linksTitle": "Navigație",
+    "contactTitle": "Contact",
+    "linkHome": "Acasă",
+    "linkAbout": "Despre Noi",
+    "linkServices": "Servicii",
+    "linkContact": "Contact",
+    "privacy": "Politică Confidențialitate",
+    "terms": "Termeni și Condiții",
+    "allRights": "Toate drepturile rezervate.",
+    "serviceArea": "Amsterdam și Împrejurimi"
+  }
+}

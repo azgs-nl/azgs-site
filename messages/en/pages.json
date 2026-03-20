@@ -1,0 +1,157 @@
+{
+  "About": {
+    "title": "About AZGS — Your Trusted Partner in Amsterdam",
+    "description": "Over 10 years of experience in installations and renovations in Amsterdam.",
+    "hero": {
+      "badge": "About Us",
+      "title": "About AZGS",
+      "subtitle": "Your trusted partner for installations and renovations in Amsterdam for over 10 years."
+    },
+    "story": {
+      "title": "Our Story",
+      "text": "AZGS was founded with one goal: providing reliable, expert service to residents and businesses in the Amsterdam region."
+    },
+    "values": {
+      "title": "Our Values",
+      "item1": "Craftsmanship",
+      "item2": "Reliability",
+      "item3": "Transparency",
+      "item4": "Customer Focus"
+    },
+    "cta": {
+      "title": "Ready to work together?",
+      "btn": "Contact Us"
+    }
+  },
+  "Contact": {
+    "title": "Contact AZGS — Call or Email Us",
+    "description": "Contact AZGS for a free quote or emergency. Available 24/7.",
+    "hero": {
+      "badge": "Contact",
+      "title": "Get in Touch",
+      "subtitle": "For quotes, questions or emergencies. We respond within 1 hour."
+    },
+    "phone": {
+      "title": "Phone",
+      "value": "+31 20 000 0000",
+      "note": "Mon-Sat 08:00–20:00 · Emergency 24/7"
+    },
+    "email": {
+      "title": "Email",
+      "value": "info@azgs.nl",
+      "note": "Response within 2 hours on business days"
+    },
+    "address": {
+      "title": "Service Area",
+      "value": "Amsterdam & Surroundings",
+      "note": "North Holland"
+    },
+    "formPlaceholder": "Contact form coming in Module 3"
+  },
+  "Emergency": {
+    "title": "Emergency Plumber & Electrician Amsterdam | 24/7 AZGS",
+    "description": "Emergency plumber, electrician or heating in Amsterdam? AZGS is available 24/7. On-site within 1 hour.",
+    "hero": {
+      "badge": "Emergency 24/7",
+      "title": "Emergency Service Amsterdam",
+      "subtitle": "Leak, electrical problem or heating failure? We are available 24/7 and on-site within 1 hour.",
+      "ctaPrimary": "Call Now — Emergency",
+      "ctaSecondary": "More Information"
+    },
+    "urgentTitle": "Call Directly:",
+    "phone": "+31 20 000 0000",
+    "services": {
+      "title": "Emergency Services",
+      "item1": "Leak & Water Damage",
+      "item2": "Electrical Failure",
+      "item3": "Boiler Breakdown",
+      "item4": "Drain Blockage",
+      "item5": "AC Failure"
+    },
+    "promise": {
+      "title": "Our Promises",
+      "item1": "On-site within 1-2 hours in Amsterdam",
+      "item2": "24/7 available including weekends",
+      "item3": "Transparent emergency rates",
+      "item4": "Certified technicians"
+    },
+    "faq": {
+      "title": "Emergency FAQ",
+      "q1": "How quickly can AZGS arrive in an emergency?",
+      "a1": "We aim to be on-site within 1 hour in Amsterdam.",
+      "q2": "Does AZGS work at night?",
+      "a2": "Yes, our emergency line is available 24/7 including nights and weekends.",
+      "q3": "What does an emergency call cost?",
+      "a3": "We work with transparent emergency rates. You always receive a price indication by phone.",
+      "q4": "For which emergencies can I call AZGS?",
+      "a4": "Leaks, electrical failures, boiler breakdowns, blockages and more.",
+      "q5": "Does AZGS work in my area?",
+      "a5": "We work in Amsterdam and surroundings including Amstelveen, Diemen and Haarlem."
+    },
+    "cta": {
+      "title": "Emergency situation?",
+      "text": "Call us directly. Our emergency line is available day and night.",
+      "btn": "Call Emergency Line Now"
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy | AZGS",
+    "description": "Read the privacy policy of AZGS. We process your personal data in accordance with GDPR.",
+    "hero": {
+      "title": "Privacy Policy"
+    },
+    "lastUpdated": "Last updated: January 2025",
+    "intro": "AZGS respects your privacy and processes personal data in accordance with the General Data Protection Regulation (GDPR).",
+    "section1": {
+      "title": "What data do we collect?",
+      "text": "We only collect data necessary for providing our services, such as name, contact details and project information."
+    },
+    "section2": {
+      "title": "How do we use your data?",
+      "text": "Your data is used solely for carrying out work, quote requests and customer communication. We never sell personal data to third parties."
+    },
+    "section3": {
+      "title": "Your rights",
+      "text": "You have the right to access, correct or delete your data. Please contact us via the email address below."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "For questions about our privacy policy, please contact us at:"
+    }
+  },
+  "Terms": {
+    "title": "Terms and Conditions | AZGS",
+    "description": "Read the terms and conditions of AZGS for installation and renovation services in Amsterdam.",
+    "hero": {
+      "title": "Terms and Conditions"
+    },
+    "lastUpdated": "Last updated: January 2025",
+    "intro": "These terms and conditions apply to all agreements between AZGS and its clients.",
+    "section1": {
+      "title": "Quotes and agreements",
+      "text": "All AZGS quotes are non-binding and valid for 30 days from the date of issue. An agreement is established upon written confirmation."
+    },
+    "section2": {
+      "title": "Execution and warranty",
+      "text": "AZGS performs work in accordance with applicable Dutch standards. All work carries a 12-month warranty."
+    },
+    "section3": {
+      "title": "Payment",
+      "text": "Payment must be made within 14 days of the invoice date. In case of late payment, AZGS is entitled to charge statutory interest."
+    },
+    "contact": {
+      "title": "Contact",
+      "text": "For questions about our terms and conditions, please contact us at:"
+    }
+  },
+  "Projects": {
+    "title": "Our Projects | AZGS Amsterdam",
+    "description": "View completed installation and renovation projects by AZGS in Amsterdam and surroundings.",
+    "hero": {
+      "badge": "Projects",
+      "title": "Our Projects",
+      "subtitle": "A selection of completed installation and renovation projects in Amsterdam and surroundings."
+    },
+    "placeholder": "Project gallery coming soon."
+  }
+}

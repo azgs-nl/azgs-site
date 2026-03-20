@@ -1,0 +1,542 @@
+{
+  "ServicesIndex": {
+    "title": "Servicii de Instalații Amsterdam | AZGS",
+    "description": "Servicii profesionale de servicii de instalații în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Servicii de Instalații Profesional",
+      "subtitle": "Servicii de servicii de instalații în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu servicii de instalații?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "Plumbing": {
+    "title": "Instalații Sanitare Amsterdam | AZGS",
+    "description": "Servicii profesionale de instalații sanitare în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Instalații Sanitare Profesional",
+      "subtitle": "Servicii de instalații sanitare în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu instalații sanitare?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "Electrical": {
+    "title": "Instalații Electrice Amsterdam | AZGS",
+    "description": "Servicii profesionale de instalații electrice în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Instalații Electrice Profesional",
+      "subtitle": "Servicii de instalații electrice în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu instalații electrice?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "Heating": {
+    "title": "Încălzire Amsterdam | AZGS",
+    "description": "Servicii profesionale de încălzire în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Încălzire Profesional",
+      "subtitle": "Servicii de încălzire în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu încălzire?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "Ventilation": {
+    "title": "Ventilație Amsterdam | AZGS",
+    "description": "Servicii profesionale de ventilație în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Ventilație Profesional",
+      "subtitle": "Servicii de ventilație în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu ventilație?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "AirConditioning": {
+    "title": "Aer Condiționat Amsterdam | AZGS",
+    "description": "Servicii profesionale de aer condiționat în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Aer Condiționat Profesional",
+      "subtitle": "Servicii de aer condiționat în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu aer condiționat?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "UnderfloorHeating": {
+    "title": "Încălzire Pardoseală Amsterdam | AZGS",
+    "description": "Servicii profesionale de încălzire pardoseală în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Încălzire Pardoseală Profesional",
+      "subtitle": "Servicii de încălzire pardoseală în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu încălzire pardoseală?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "BoilerInstallation": {
+    "title": "Instalare Centrală Termică Amsterdam | AZGS",
+    "description": "Servicii profesionale de instalare centrală termică în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Instalare Centrală Termică Profesional",
+      "subtitle": "Servicii de instalare centrală termică în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu instalare centrală termică?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  },
+  "HeatPump": {
+    "title": "Pompă de Căldură Amsterdam | AZGS",
+    "description": "Servicii profesionale de pompă de căldură în Amsterdam. Tehnicieni certificați, intervenție rapidă.",
+    "hero": {
+      "badge": "Instalații",
+      "title": "Pompă de Căldură Profesional",
+      "subtitle": "Servicii de pompă de căldură în Amsterdam. Rapid, de încredere și certificat.",
+      "ctaPrimary": "Sună Acum",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Probleme cu pompă de căldură?",
+      "text": "AZGS rezolvă problemele dumneavoastră rapid și profesional — inclusiv urgențe în afara orelor de program."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Inspecție și deviz gratuit",
+      "item2": "Tehnicieni certificați",
+      "item3": "Materiale de calitate",
+      "item4": "Garanție la lucrare",
+      "item5": "Loc de muncă curat",
+      "item6": "Factură detaliată"
+    },
+    "advantages": {
+      "title": "De ce AZGS?",
+      "item1": "10+ ani experiență în Amsterdam",
+      "item2": "Certificat și asigurat",
+      "item3": "Prețuri transparente",
+      "item4": "Urgențe 24/7"
+    },
+    "process": {
+      "title": "Cum funcționează?",
+      "step1Title": "Contactați-ne",
+      "step1Text": "Sunați sau trimiteți un mesaj. Răspundem în 1 oră.",
+      "step2Title": "Inspecție & deviz",
+      "step2Text": "Inspecție gratuită și ofertă fără obligații.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrare profesională și curată.",
+      "step4Title": "Predare",
+      "step4Text": "Predare cu garanție și factură clară."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât de repede poate interveni AZGS în urgență?",
+      "a1": "La urgențe, ajungem de obicei în 1-2 ore în Amsterdam.",
+      "q2": "Oferă AZGS garanție la lucrări?",
+      "a2": "Da, oferim garanție de 12 luni pentru toate lucrările și materialele.",
+      "q3": "Lucrați și în afara orelor de program?",
+      "a3": "Da, linia de urgențe este disponibilă 24/7 inclusiv weekenduri.",
+      "q4": "Voi primi un deviz în avans?",
+      "a4": "Întotdeauna. Deviz scris înainte de începere. Fără costuri ascunse.",
+      "q5": "Este AZGS certificat?",
+      "a5": "Da, toți tehnicienii noștri sunt certificați și lucrează conform standardelor olandeze."
+    },
+    "cta": {
+      "title": "Gata să începeți?",
+      "text": "Solicitați un deviz gratuit astăzi. Răspundem în 1 oră.",
+      "btn": "Solicitați Deviz Gratuit"
+    }
+  }
+}

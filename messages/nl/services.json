@@ -1,0 +1,542 @@
+{
+  "ServicesIndex": {
+    "title": "Installatietechniek Amsterdam Amsterdam | AZGS",
+    "description": "Professionele installatietechniek in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Installatietechniek",
+      "subtitle": "Vakkundige installatietechniek service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw installatietechniek?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw installatietechniek problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor installatietechniek werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Plumbing": {
+    "title": "Loodgieter Amsterdam Amsterdam | AZGS",
+    "description": "Professionele loodgieter in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Loodgieter",
+      "subtitle": "Vakkundige loodgieter service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw loodgieter?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw loodgieter problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor loodgieter werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Electrical": {
+    "title": "Elektricien Amsterdam Amsterdam | AZGS",
+    "description": "Professionele elektricien in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Elektricien",
+      "subtitle": "Vakkundige elektricien service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw elektricien?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw elektricien problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor elektricien werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Heating": {
+    "title": "Verwarming Amsterdam Amsterdam | AZGS",
+    "description": "Professionele verwarming in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Verwarming",
+      "subtitle": "Vakkundige verwarming service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw verwarming?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw verwarming problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor verwarming werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Ventilation": {
+    "title": "Ventilatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele ventilatie in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Ventilatie",
+      "subtitle": "Vakkundige ventilatie service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw ventilatie?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw ventilatie problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor ventilatie werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "AirConditioning": {
+    "title": "Airconditioning Amsterdam Amsterdam | AZGS",
+    "description": "Professionele airconditioning in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Airconditioning",
+      "subtitle": "Vakkundige airconditioning service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw airconditioning?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw airconditioning problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor airconditioning werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "UnderfloorHeating": {
+    "title": "Vloerverwarming Amsterdam Amsterdam | AZGS",
+    "description": "Professionele vloerverwarming in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Vloerverwarming",
+      "subtitle": "Vakkundige vloerverwarming service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw vloerverwarming?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw vloerverwarming problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor vloerverwarming werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "BoilerInstallation": {
+    "title": "Ketelinstallatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele ketelinstallatie in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Ketelinstallatie",
+      "subtitle": "Vakkundige ketelinstallatie service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw ketelinstallatie?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw ketelinstallatie problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor ketelinstallatie werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "HeatPump": {
+    "title": "Warmtepomp Amsterdam Amsterdam | AZGS",
+    "description": "Professionele warmtepomp in Amsterdam en omstreken. Snel, betrouwbaar en gecertificeerd.",
+    "hero": {
+      "badge": "Installatietechniek",
+      "title": "Professionele Warmtepomp",
+      "subtitle": "Vakkundige warmtepomp service in Amsterdam en omstreken. Snel ter plaatse, eerlijke prijs.",
+      "ctaPrimary": "Bel Nu — Gratis Advies",
+      "ctaSecondary": "Bekijk Onze Diensten"
+    },
+    "problem": {
+      "title": "Problemen met uw warmtepomp?",
+      "text": "Een defecte of verouderde installatie kan veel overlast geven. AZGS lost uw warmtepomp problemen snel en vakkundig op — ook bij spoedgevallen buiten kantooruren."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis inspectie en kostenraming",
+      "item2": "Gecertificeerde monteurs",
+      "item3": "Gebruik van A-merk materialen",
+      "item4": "Werkgarantie op alle uitgevoerde werkzaamheden",
+      "item5": "Nette en stofvrije werkplek",
+      "item6": "Factuur met duidelijke kostenspecificatie"
+    },
+    "advantages": {
+      "title": "Waarom AZGS?",
+      "item1": "Meer dan 10 jaar ervaring in Amsterdam",
+      "item2": "Gecertificeerd en volledig verzekerd",
+      "item3": "Transparante prijzen — geen verrassingen achteraf",
+      "item4": "24/7 bereikbaar voor spoedgevallen"
+    },
+    "process": {
+      "title": "Hoe werkt het?",
+      "step1Title": "Contact opnemen",
+      "step1Text": "Bel ons of stuur een bericht. We reageren binnen 1 uur.",
+      "step2Title": "Inspectie & offerte",
+      "step2Text": "Onze monteur komt langs voor een gratis inspectie en vrijblijvende offerte.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Na akkoord voeren we het werk vakkundig en netjes uit.",
+      "step4Title": "Oplevering",
+      "step4Text": "We leveren op met garantie en een duidelijke factuur."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe snel kan AZGS ter plaatse zijn voor een spoedgeval?",
+      "a1": "Bij spoed zijn we doorgaans binnen 1-2 uur ter plaatse in Amsterdam en omstreken.",
+      "q2": "Geeft AZGS garantie op het werk?",
+      "a2": "Ja, wij geven standaard 12 maanden garantie op alle uitgevoerde werkzaamheden en gebruikte materialen.",
+      "q3": "Werkt AZGS ook buiten kantooruren?",
+      "a3": "Ja, onze spoedlijn is 24/7 bereikbaar, inclusief weekenden en feestdagen.",
+      "q4": "Krijg ik van tevoren een prijsopgave?",
+      "a4": "Altijd. We geven een schriftelijke offerte voor akkoord. Geen verborgen kosten.",
+      "q5": "Is AZGS gecertificeerd voor warmtepomp werkzaamheden?",
+      "a5": "Ja, al onze monteurs zijn gecertificeerd en werken conform Nederlandse normen en wetgeving."
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "text": "Vraag vandaag nog een gratis offerte aan. Wij reageren binnen 1 uur.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  }
+}

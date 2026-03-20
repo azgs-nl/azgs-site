@@ -1,0 +1,542 @@
+{
+  "RenovationIndex": {
+    "title": "Renovatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele renovatie in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Renovatie",
+      "subtitle": "Wij verzorgen uw renovatie van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare renovatie aannemer?",
+      "text": "AZGS voert renovatie uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde renovatie?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "ApartmentRenovation": {
+    "title": "Appartement renovatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele appartement renovatie in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Appartement renovatie",
+      "subtitle": "Wij verzorgen uw appartement renovatie van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare appartement renovatie aannemer?",
+      "text": "AZGS voert appartement renovatie uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde appartement renovatie?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "BathroomRenovation": {
+    "title": "Badkamer renovatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele badkamer renovatie in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Badkamer renovatie",
+      "subtitle": "Wij verzorgen uw badkamer renovatie van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare badkamer renovatie aannemer?",
+      "text": "AZGS voert badkamer renovatie uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde badkamer renovatie?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "KitchenRenovation": {
+    "title": "Keuken renovatie Amsterdam Amsterdam | AZGS",
+    "description": "Professionele keuken renovatie in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Keuken renovatie",
+      "subtitle": "Wij verzorgen uw keuken renovatie van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare keuken renovatie aannemer?",
+      "text": "AZGS voert keuken renovatie uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde keuken renovatie?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Drywall": {
+    "title": "Gipsplaten Amsterdam Amsterdam | AZGS",
+    "description": "Professionele gipsplaten montage in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Gipsplaten montage",
+      "subtitle": "Wij verzorgen uw gipsplaten montage van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare gipsplaten montage aannemer?",
+      "text": "AZGS voert gipsplaten montage uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde gipsplaten montage?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Painting": {
+    "title": "Schilderwerk Amsterdam Amsterdam | AZGS",
+    "description": "Professionele schilderwerk in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Schilderwerk",
+      "subtitle": "Wij verzorgen uw schilderwerk van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare schilderwerk aannemer?",
+      "text": "AZGS voert schilderwerk uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde schilderwerk?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Plastering": {
+    "title": "Stucwerk Amsterdam Amsterdam | AZGS",
+    "description": "Professionele stucwerk in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Stucwerk",
+      "subtitle": "Wij verzorgen uw stucwerk van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare stucwerk aannemer?",
+      "text": "AZGS voert stucwerk uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde stucwerk?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "Flooring": {
+    "title": "Vloeren Amsterdam Amsterdam | AZGS",
+    "description": "Professionele vloerwerk in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Vloerwerk",
+      "subtitle": "Wij verzorgen uw vloerwerk van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare vloerwerk aannemer?",
+      "text": "AZGS voert vloerwerk uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde vloerwerk?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  },
+  "TileInstallation": {
+    "title": "Tegelwerk Amsterdam Amsterdam | AZGS",
+    "description": "Professionele tegelwerk in Amsterdam. Vakkundige aanpak, vaste prijs, geen verrassingen.",
+    "hero": {
+      "badge": "Renovatie",
+      "title": "Vakkundige Tegelwerk",
+      "subtitle": "Wij verzorgen uw tegelwerk van A tot Z. Transparante offerte, kwaliteitsgarantie.",
+      "ctaPrimary": "Vraag Gratis Offerte",
+      "ctaSecondary": "Bekijk Renovatiediensten"
+    },
+    "problem": {
+      "title": "Op zoek naar een betrouwbare tegelwerk aannemer?",
+      "text": "AZGS voert tegelwerk uit met eigen vakmannen. Geen onderaannemers, geen vertragingen, geen verborgen kosten."
+    },
+    "includes": {
+      "title": "Wat is inbegrepen?",
+      "item1": "Gratis opname en gedetailleerde offerte",
+      "item2": "Eigen gecertificeerde vaklieden",
+      "item3": "Materialen van topkwaliteit",
+      "item4": "Dagelijkse opruiming van de werkplek",
+      "item5": "Coördinatie van alle werkzaamheden",
+      "item6": "Opleveringsgarantie"
+    },
+    "advantages": {
+      "title": "Voordelen van AZGS",
+      "item1": "Alles-in-één renovatiepartner",
+      "item2": "Vaste prijs na offerte — geen meerwerk verrassingen",
+      "item3": "Eigen vaklieden, geen onderaannemers",
+      "item4": "Tijdige oplevering gegarandeerd"
+    },
+    "process": {
+      "title": "Onze Werkwijze",
+      "step1Title": "Opname",
+      "step1Text": "Gratis opname van uw woning of bedrijfspand.",
+      "step2Title": "Offerte",
+      "step2Text": "Gedetailleerde offerte met vaste prijs binnen 48 uur.",
+      "step3Title": "Uitvoering",
+      "step3Text": "Dagelijkse werkzaamheden met minimale overlast.",
+      "step4Title": "Oplevering",
+      "step4Text": "Grondige inspectie en oplevering met garantie."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "q1": "Hoe lang duurt een gemiddelde tegelwerk?",
+      "a1": "De duur varieert per project. Na de opname geven wij een realistische planning.",
+      "q2": "Werkt AZGS met vaste prijzen?",
+      "a2": "Ja, na de offerte geldt een vaste prijs. Geen meerwerk tenzij door u verzocht.",
+      "q3": "Kan ik tijdens de renovatie thuis blijven?",
+      "a3": "Dat kan in de meeste gevallen. We bespreken dit bij de opname.",
+      "q4": "Regelt AZGS ook de vergunningen?",
+      "a4": "Ja, indien nodig verzorgen wij alle benodigde vergunningen.",
+      "q5": "Geeft AZGS garantie op renovatiewerk?",
+      "a5": "Ja, standaard 12 maanden garantie op alle uitgevoerde werkzaamheden."
+    },
+    "cta": {
+      "title": "Klaar voor uw renovatie?",
+      "text": "Vraag een gratis opname en offerte aan.",
+      "btn": "Gratis Offerte Aanvragen"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "About": {
+    "title": "Über AZGS — Ihr zuverlässiger Partner in Amsterdam",
+    "description": "Über 10 Jahre Erfahrung in Installationen und Renovierungen in Amsterdam.",
+    "hero": {
+      "badge": "Über Uns",
+      "title": "Über AZGS",
+      "subtitle": "Ihr zuverlässiger Partner für Installationen und Renovierungen in Amsterdam."
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "text": "AZGS wurde mit einem Ziel gegründet: zuverlässige, fachkundige Dienstleistungen für Bewohner und Unternehmen in Amsterdam."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "item1": "Handwerkskunst",
+      "item2": "Zuverlässigkeit",
+      "item3": "Transparenz",
+      "item4": "Kundenorientierung"
+    },
+    "cta": {
+      "title": "Bereit zur Zusammenarbeit?",
+      "btn": "Kontakt aufnehmen"
+    }
+  },
+  "Contact": {
+    "title": "Kontakt AZGS — Anrufen oder E-Mail",
+    "description": "Kontaktieren Sie AZGS für ein kostenloses Angebot oder Notfall. 24/7 erreichbar.",
+    "hero": {
+      "badge": "Kontakt",
+      "title": "Kontakt aufnehmen",
+      "subtitle": "Für Angebote, Fragen oder Notfälle. Wir antworten innerhalb 1 Stunde."
+    },
+    "phone": {
+      "title": "Telefon",
+      "value": "+31 20 000 0000",
+      "note": "Mo-Sa 08:00–20:00 · Notdienst 24/7"
+    },
+    "email": {
+      "title": "E-Mail",
+      "value": "info@azgs.nl",
+      "note": "Antwort innerhalb 2 Stunden an Werktagen"
+    },
+    "address": {
+      "title": "Servicegebiet",
+      "value": "Amsterdam & Umgebung",
+      "note": "Noord-Holland"
+    },
+    "formPlaceholder": "Kontaktformular folgt in Modul 3"
+  },
+  "Emergency": {
+    "title": "Notdienst Sanitär & Elektro Amsterdam | 24/7 AZGS",
+    "description": "Notfall mit Sanitär, Elektro oder Heizung in Amsterdam? AZGS ist 24/7 erreichbar.",
+    "hero": {
+      "badge": "Notdienst 24/7",
+      "title": "Notdienst Amsterdam",
+      "subtitle": "Wasserschaden, Stromausfall oder Heizungsausfall? Wir sind 24/7 erreichbar.",
+      "ctaPrimary": "Jetzt Anrufen — Notfall",
+      "ctaSecondary": "Mehr Informationen"
+    },
+    "urgentTitle": "Direkt Anrufen:",
+    "phone": "+31 20 000 0000",
+    "services": {
+      "title": "Notdienstleistungen",
+      "item1": "Wasserschaden & Rohrbruch",
+      "item2": "Stromausfall",
+      "item3": "Heizungsausfall",
+      "item4": "Rohrverstopfung",
+      "item5": "Klimaanlage Störung"
+    },
+    "promise": {
+      "title": "Unsere Versprechen",
+      "item1": "Innerhalb 1-2 Stunden vor Ort in Amsterdam",
+      "item2": "24/7 erreichbar auch am Wochenende",
+      "item3": "Transparente Notdiensttarife",
+      "item4": "Zertifizierte Techniker"
+    },
+    "faq": {
+      "title": "Notdienst FAQ",
+      "q1": "Wie schnell ist AZGS bei einem Notfall?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb 1 Stunde in Amsterdam.",
+      "q2": "Arbeitet AZGS nachts?",
+      "a2": "Ja, unser Notdienst ist 24/7 erreichbar.",
+      "q3": "Was kostet ein Notfalleinsatz?",
+      "a3": "Wir arbeiten mit transparenten Tarifen. Sie erhalten immer eine telefonische Preisangabe.",
+      "q4": "Für welche Notfälle kann ich AZGS anrufen?",
+      "a4": "Wasserschäden, Stromausfälle, Heizungsausfälle, Verstopfungen und mehr.",
+      "q5": "Arbeitet AZGS in meiner Region?",
+      "a5": "Wir arbeiten in Amsterdam und Umgebung."
+    },
+    "cta": {
+      "title": "Notfallsituation?",
+      "text": "Rufen Sie uns direkt an.",
+      "btn": "Notfallnummer Anrufen"
+    }
+  },
+  "Privacy": {
+    "title": "Datenschutzerklärung | AZGS",
+    "description": "Lesen Sie die Datenschutzerklärung von AZGS. Wir verarbeiten Ihre Daten gemäß DSGVO.",
+    "hero": {
+      "title": "Datenschutzerklärung"
+    },
+    "lastUpdated": "Letzte Aktualisierung: Januar 2025",
+    "intro": "AZGS respektiert Ihre Privatsphäre und verarbeitet personenbezogene Daten gemäß der Datenschutz-Grundverordnung (DSGVO).",
+    "section1": {
+      "title": "Welche Daten erheben wir?",
+      "text": "Wir erheben nur Daten, die für die Erbringung unserer Dienstleistungen erforderlich sind, wie Name, Kontaktdaten und Projektinformationen."
+    },
+    "section2": {
+      "title": "Wie verwenden wir Ihre Daten?",
+      "text": "Ihre Daten werden ausschließlich für die Ausführung von Arbeiten, Angebotsanfragen und Kundenkommunikation verwendet. Wir verkaufen niemals personenbezogene Daten an Dritte."
+    },
+    "section3": {
+      "title": "Ihre Rechte",
+      "text": "Sie haben das Recht, Ihre Daten einzusehen, zu korrigieren oder löschen zu lassen. Bitte kontaktieren Sie uns über die unten angegebene E-Mail-Adresse."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Bei Fragen zu unserer Datenschutzerklärung kontaktieren Sie uns bitte unter:"
+    }
+  },
+  "Terms": {
+    "title": "Allgemeine Geschäftsbedingungen | AZGS",
+    "description": "Lesen Sie die AGB von AZGS für Installations- und Renovierungsdienstleistungen in Amsterdam.",
+    "hero": {
+      "title": "Allgemeine Geschäftsbedingungen"
+    },
+    "lastUpdated": "Letzte Aktualisierung: Januar 2025",
+    "intro": "Diese Allgemeinen Geschäftsbedingungen gelten für alle Vereinbarungen zwischen AZGS und seinen Auftraggebern.",
+    "section1": {
+      "title": "Angebote und Vereinbarungen",
+      "text": "Alle Angebote von AZGS sind unverbindlich und ab Ausstellungsdatum 30 Tage gültig. Eine Vereinbarung kommt durch schriftliche Bestätigung zustande."
+    },
+    "section2": {
+      "title": "Ausführung und Garantie",
+      "text": "AZGS führt Arbeiten gemäß den geltenden niederländischen Normen aus. Auf alle Arbeiten gilt eine Garantiezeit von 12 Monaten."
+    },
+    "section3": {
+      "title": "Zahlung",
+      "text": "Die Zahlung ist innerhalb von 14 Tagen nach Rechnungsdatum fällig. Bei Zahlungsverzug ist AZGS berechtigt, gesetzliche Zinsen zu berechnen."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "text": "Bei Fragen zu unseren AGB kontaktieren Sie uns bitte unter:"
+    }
+  },
+  "Projects": {
+    "title": "Unsere Projekte | AZGS Amsterdam",
+    "description": "Sehen Sie abgeschlossene Installations- und Renovierungsprojekte von AZGS in Amsterdam.",
+    "hero": {
+      "badge": "Projekte",
+      "title": "Unsere Projekte",
+      "subtitle": "Eine Auswahl abgeschlossener Installations- und Renovierungsprojekte in Amsterdam und Umgebung."
+    },
+    "placeholder": "Projektgalerie folgt in Kürze."
+  }
+}

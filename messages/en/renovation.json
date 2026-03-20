@@ -1,0 +1,542 @@
+{
+  "RenovationIndex": {
+    "title": "Renovation Services Amsterdam | AZGS",
+    "description": "Professional renovation services in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Renovation Services",
+      "subtitle": "We handle your renovation services from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable renovation services contractor?",
+      "text": "AZGS carries out renovation services with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical renovation services take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "ApartmentRenovation": {
+    "title": "Apartment Renovation Amsterdam | AZGS",
+    "description": "Professional apartment renovation in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Apartment Renovation",
+      "subtitle": "We handle your apartment renovation from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable apartment renovation contractor?",
+      "text": "AZGS carries out apartment renovation with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical apartment renovation take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "BathroomRenovation": {
+    "title": "Bathroom Renovation Amsterdam | AZGS",
+    "description": "Professional bathroom renovation in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Bathroom Renovation",
+      "subtitle": "We handle your bathroom renovation from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable bathroom renovation contractor?",
+      "text": "AZGS carries out bathroom renovation with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical bathroom renovation take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "KitchenRenovation": {
+    "title": "Kitchen Renovation Amsterdam | AZGS",
+    "description": "Professional kitchen renovation in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Kitchen Renovation",
+      "subtitle": "We handle your kitchen renovation from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable kitchen renovation contractor?",
+      "text": "AZGS carries out kitchen renovation with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical kitchen renovation take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Drywall": {
+    "title": "Drywall Amsterdam | AZGS",
+    "description": "Professional drywall in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Drywall",
+      "subtitle": "We handle your drywall from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable drywall contractor?",
+      "text": "AZGS carries out drywall with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical drywall take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Painting": {
+    "title": "Painting Amsterdam | AZGS",
+    "description": "Professional painting in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Painting",
+      "subtitle": "We handle your painting from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable painting contractor?",
+      "text": "AZGS carries out painting with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical painting take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Plastering": {
+    "title": "Plastering Amsterdam | AZGS",
+    "description": "Professional plastering in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Plastering",
+      "subtitle": "We handle your plastering from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable plastering contractor?",
+      "text": "AZGS carries out plastering with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical plastering take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Flooring": {
+    "title": "Flooring Amsterdam | AZGS",
+    "description": "Professional flooring in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Flooring",
+      "subtitle": "We handle your flooring from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable flooring contractor?",
+      "text": "AZGS carries out flooring with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical flooring take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "TileInstallation": {
+    "title": "Tile Installation Amsterdam | AZGS",
+    "description": "Professional tile installation in Amsterdam. Expert approach, fixed price, no surprises.",
+    "hero": {
+      "badge": "Renovation",
+      "title": "Expert Tile Installation",
+      "subtitle": "We handle your tile installation from start to finish. Transparent quote, quality guarantee.",
+      "ctaPrimary": "Request Free Quote",
+      "ctaSecondary": "View Renovation Services"
+    },
+    "problem": {
+      "title": "Looking for a reliable tile installation contractor?",
+      "text": "AZGS carries out tile installation with our own craftsmen. No subcontractors, no delays, no hidden costs."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free survey & detailed quote",
+      "item2": "Own certified craftsmen",
+      "item3": "Top quality materials",
+      "item4": "Daily site cleanup",
+      "item5": "All-work coordination",
+      "item6": "Delivery guarantee"
+    },
+    "advantages": {
+      "title": "AZGS Advantages",
+      "item1": "All-in-one renovation partner",
+      "item2": "Fixed price after quote",
+      "item3": "Own craftsmen, no subcontractors",
+      "item4": "On-time delivery guaranteed"
+    },
+    "process": {
+      "title": "Our Process",
+      "step1Title": "Survey",
+      "step1Text": "Free survey of your property.",
+      "step2Title": "Quote",
+      "step2Text": "Detailed fixed-price quote within 48 hours.",
+      "step3Title": "Execution",
+      "step3Text": "Daily work with minimal disruption.",
+      "step4Title": "Handover",
+      "step4Text": "Thorough inspection and handover with guarantee."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "How long does a typical tile installation take?",
+      "a1": "Duration varies per project. After the survey we provide a realistic schedule.",
+      "q2": "Does AZGS work with fixed prices?",
+      "a2": "Yes, fixed price after the quote. No extras unless requested by you.",
+      "q3": "Can I stay home during renovation?",
+      "a3": "Usually yes. We discuss this during the survey.",
+      "q4": "Does AZGS handle permits?",
+      "a4": "Yes, we take care of all necessary permits.",
+      "q5": "Does AZGS provide a guarantee?",
+      "a5": "Yes, 12 months guarantee on all work."
+    },
+    "cta": {
+      "title": "Ready for your renovation?",
+      "text": "Request a free survey and quote.",
+      "btn": "Request Free Quote"
+    }
+  }
+}

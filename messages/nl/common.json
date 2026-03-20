@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Installatietechniek & Renovatie | Amsterdam",
+    "description": "Professionele loodgieter, elektricien, verwarming en renovatie in Amsterdam en omstreken. 24/7 spoedservice beschikbaar."
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Installatietechniek",
+    "renovation": "Renovatie",
+    "emergency": "Spoed 24/7",
+    "about": "Over Ons",
+    "contact": "Contact",
+    "cta": "Bel Nu",
+    "plumbing": "Loodgieter",
+    "electrical": "Elektricien",
+    "heating": "Verwarming",
+    "ventilation": "Ventilatie",
+    "airConditioning": "Airconditioning",
+    "underfloorHeating": "Vloerverwarming",
+    "boilerInstallation": "Ketelinstallatie",
+    "heatPump": "Warmtepomp",
+    "apartmentRenovation": "Appartement renovatie",
+    "bathroomRenovation": "Badkamer renovatie",
+    "kitchenRenovation": "Keuken renovatie",
+    "drywall": "Gipsplaten",
+    "painting": "Schilderwerk",
+    "plastering": "Stucwerk",
+    "flooring": "Vloeren",
+    "tileInstallation": "Tegelwerk",
+    "projects": "Projecten"
+  },
+  "Footer": {
+    "tagline": "Uw betrouwbare partner voor installaties en renovaties in Amsterdam en omstreken.",
+    "linksTitle": "Navigatie",
+    "contactTitle": "Contact",
+    "linkHome": "Home",
+    "linkAbout": "Over Ons",
+    "linkServices": "Diensten",
+    "linkContact": "Contact",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden",
+    "allRights": "Alle rechten voorbehouden.",
+    "serviceArea": "Amsterdam & Omstreken"
+  }
+}

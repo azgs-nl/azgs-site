@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Installation & Renovation Services | Amsterdam",
+    "description": "Professional plumbing, electrical, heating and renovation in Amsterdam. 24/7 emergency service available."
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Installation Services",
+    "renovation": "Renovation",
+    "emergency": "Emergency 24/7",
+    "about": "About Us",
+    "contact": "Contact",
+    "cta": "Call Now",
+    "plumbing": "Plumbing",
+    "electrical": "Electrical",
+    "heating": "Heating",
+    "ventilation": "Ventilation",
+    "airConditioning": "Air Conditioning",
+    "underfloorHeating": "Underfloor Heating",
+    "boilerInstallation": "Boiler Installation",
+    "heatPump": "Heat Pump",
+    "apartmentRenovation": "Apartment Renovation",
+    "bathroomRenovation": "Bathroom Renovation",
+    "kitchenRenovation": "Kitchen Renovation",
+    "drywall": "Drywall",
+    "painting": "Painting",
+    "plastering": "Plastering",
+    "flooring": "Flooring",
+    "tileInstallation": "Tile Installation",
+    "projects": "Projects"
+  },
+  "Footer": {
+    "tagline": "Your trusted partner for installations and renovations in Amsterdam.",
+    "linksTitle": "Navigation",
+    "contactTitle": "Contact",
+    "linkHome": "Home",
+    "linkAbout": "About Us",
+    "linkServices": "Services",
+    "linkContact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "allRights": "All rights reserved.",
+    "serviceArea": "Amsterdam & Surroundings"
+  }
+}

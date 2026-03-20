@@ -1,0 +1,542 @@
+{
+  "ServicesIndex": {
+    "title": "Installationstechnik Amsterdam | AZGS",
+    "description": "Professionelle Installationstechnik-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Installationstechnik",
+      "subtitle": "Fachkundige Installationstechnik-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Installationstechnik?",
+      "text": "AZGS löst Ihre Installationstechnik-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Plumbing": {
+    "title": "Sanitärinstallation Amsterdam | AZGS",
+    "description": "Professionelle Sanitärinstallation-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Sanitärinstallation",
+      "subtitle": "Fachkundige Sanitärinstallation-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Sanitärinstallation?",
+      "text": "AZGS löst Ihre Sanitärinstallation-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Electrical": {
+    "title": "Elektroinstallation Amsterdam | AZGS",
+    "description": "Professionelle Elektroinstallation-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Elektroinstallation",
+      "subtitle": "Fachkundige Elektroinstallation-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Elektroinstallation?",
+      "text": "AZGS löst Ihre Elektroinstallation-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Heating": {
+    "title": "Heizungsinstallation Amsterdam | AZGS",
+    "description": "Professionelle Heizungsinstallation-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Heizungsinstallation",
+      "subtitle": "Fachkundige Heizungsinstallation-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Heizungsinstallation?",
+      "text": "AZGS löst Ihre Heizungsinstallation-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Ventilation": {
+    "title": "Lüftungsinstallation Amsterdam | AZGS",
+    "description": "Professionelle Lüftungsinstallation-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Lüftungsinstallation",
+      "subtitle": "Fachkundige Lüftungsinstallation-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Lüftungsinstallation?",
+      "text": "AZGS löst Ihre Lüftungsinstallation-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "AirConditioning": {
+    "title": "Klimaanlage Amsterdam | AZGS",
+    "description": "Professionelle Klimaanlage-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Klimaanlage",
+      "subtitle": "Fachkundige Klimaanlage-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Klimaanlage?",
+      "text": "AZGS löst Ihre Klimaanlage-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "UnderfloorHeating": {
+    "title": "Fußbodenheizung Amsterdam | AZGS",
+    "description": "Professionelle Fußbodenheizung-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Fußbodenheizung",
+      "subtitle": "Fachkundige Fußbodenheizung-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Fußbodenheizung?",
+      "text": "AZGS löst Ihre Fußbodenheizung-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "BoilerInstallation": {
+    "title": "Kesselinstallation Amsterdam | AZGS",
+    "description": "Professionelle Kesselinstallation-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Kesselinstallation",
+      "subtitle": "Fachkundige Kesselinstallation-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Kesselinstallation?",
+      "text": "AZGS löst Ihre Kesselinstallation-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "HeatPump": {
+    "title": "Wärmepumpe Amsterdam | AZGS",
+    "description": "Professionelle Wärmepumpe-Leistungen in Amsterdam. Zertifizierte Techniker, schnelle Reaktion.",
+    "hero": {
+      "badge": "Installationstechnik",
+      "title": "Professionelle Wärmepumpe",
+      "subtitle": "Fachkundige Wärmepumpe-Leistungen in Amsterdam. Schnell, zuverlässig und zertifiziert.",
+      "ctaPrimary": "Jetzt Anrufen",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Probleme mit Wärmepumpe?",
+      "text": "AZGS löst Ihre Wärmepumpe-Probleme schnell und professionell — auch bei Notfällen außerhalb der Geschäftszeiten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenlose Inspektion & Angebot",
+      "item2": "Zertifizierte Techniker",
+      "item3": "Markenqualität",
+      "item4": "Arbeitsgarantie",
+      "item5": "Saubere Baustelle",
+      "item6": "Detaillierte Rechnung"
+    },
+    "advantages": {
+      "title": "Warum AZGS?",
+      "item1": "10+ Jahre in Amsterdam",
+      "item2": "Zertifiziert & versichert",
+      "item3": "Transparente Preise",
+      "item4": "24/7 Notdienst"
+    },
+    "process": {
+      "title": "Wie funktioniert es?",
+      "step1Title": "Kontakt aufnehmen",
+      "step1Text": "Rufen Sie an oder schreiben Sie uns. Wir antworten innerhalb 1 Stunde.",
+      "step2Title": "Inspektion & Angebot",
+      "step2Text": "Kostenlose Inspektion und unverbindliches Angebot.",
+      "step3Title": "Ausführung",
+      "step3Text": "Professionelle und saubere Arbeit.",
+      "step4Title": "Übergabe",
+      "step4Text": "Übergabe mit Garantie und übersichtlicher Rechnung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie schnell ist AZGS bei einem Notfall vor Ort?",
+      "a1": "Bei Notfällen sind wir in der Regel innerhalb von 1-2 Stunden in Amsterdam.",
+      "q2": "Gibt AZGS eine Arbeitsgarantie?",
+      "a2": "Ja, wir geben 12 Monate Garantie auf alle Arbeiten und Materialien.",
+      "q3": "Arbeitet AZGS auch außerhalb der Geschäftszeiten?",
+      "a3": "Ja, unser Notdienst ist 24/7 erreichbar, auch an Wochenenden.",
+      "q4": "Bekomme ich vorher ein Angebot?",
+      "a4": "Immer. Schriftliches Angebot vor Beginn. Keine versteckten Kosten.",
+      "q5": "Ist AZGS zertifiziert?",
+      "a5": "Ja, alle unsere Techniker sind zertifiziert und arbeiten nach niederländischen Normen."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "text": "Fordern Sie noch heute ein kostenloses Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  }
+}

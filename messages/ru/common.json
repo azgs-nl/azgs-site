@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Монтаж & Ремонт | Амстердам",
+    "description": "Профессиональный сантехник, электрик, отопление и ремонт в Амстердаме. Срочный вызов 24/7."
+  },
+  "Navigation": {
+    "home": "Главная",
+    "services": "Монтажные работы",
+    "renovation": "Ремонт",
+    "emergency": "Срочный вызов 24/7",
+    "about": "О нас",
+    "contact": "Контакт",
+    "cta": "Позвонить",
+    "plumbing": "Сантехник",
+    "electrical": "Электрик",
+    "heating": "Отопление",
+    "ventilation": "Вентиляция",
+    "airConditioning": "Кондиционирование",
+    "underfloorHeating": "Тёплый пол",
+    "boilerInstallation": "Установка котла",
+    "heatPump": "Тепловой насос",
+    "apartmentRenovation": "Ремонт квартиры",
+    "bathroomRenovation": "Ремонт ванной",
+    "kitchenRenovation": "Ремонт кухни",
+    "drywall": "Гипсокартон",
+    "painting": "Покраска",
+    "plastering": "Штукатурка",
+    "flooring": "Полы",
+    "tileInstallation": "Укладка плитки",
+    "projects": "Проекты"
+  },
+  "Footer": {
+    "tagline": "Ваш надёжный партнёр по монтажу и ремонту в Амстердаме.",
+    "linksTitle": "Навигация",
+    "contactTitle": "Контакт",
+    "linkHome": "Главная",
+    "linkAbout": "О нас",
+    "linkServices": "Услуги",
+    "linkContact": "Контакт",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия использования",
+    "allRights": "Все права защищены.",
+    "serviceArea": "Амстердам и окрестности"
+  }
+}

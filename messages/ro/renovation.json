@@ -1,0 +1,542 @@
+{
+  "RenovationIndex": {
+    "title": "Servicii Renovare Amsterdam | AZGS",
+    "description": "Servicii profesionale de servicii renovare în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Servicii Renovare Profesional",
+      "subtitle": "Executăm servicii renovare de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută servicii renovare cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o servicii renovare?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "ApartmentRenovation": {
+    "title": "Renovare Apartament Amsterdam | AZGS",
+    "description": "Servicii profesionale de renovare apartament în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Renovare Apartament Profesional",
+      "subtitle": "Executăm renovare apartament de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută renovare apartament cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o renovare apartament?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "BathroomRenovation": {
+    "title": "Renovare Baie Amsterdam | AZGS",
+    "description": "Servicii profesionale de renovare baie în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Renovare Baie Profesional",
+      "subtitle": "Executăm renovare baie de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută renovare baie cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o renovare baie?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "KitchenRenovation": {
+    "title": "Renovare Bucătărie Amsterdam | AZGS",
+    "description": "Servicii profesionale de renovare bucătărie în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Renovare Bucătărie Profesional",
+      "subtitle": "Executăm renovare bucătărie de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută renovare bucătărie cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o renovare bucătărie?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "Drywall": {
+    "title": "Gips-Carton Amsterdam | AZGS",
+    "description": "Servicii profesionale de gips-carton în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Gips-Carton Profesional",
+      "subtitle": "Executăm gips-carton de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută gips-carton cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o gips-carton?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "Painting": {
+    "title": "Zugrăveli Amsterdam | AZGS",
+    "description": "Servicii profesionale de zugrăveli în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Zugrăveli Profesional",
+      "subtitle": "Executăm zugrăveli de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută zugrăveli cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o zugrăveli?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "Plastering": {
+    "title": "Tencuieli Amsterdam | AZGS",
+    "description": "Servicii profesionale de tencuieli în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Tencuieli Profesional",
+      "subtitle": "Executăm tencuieli de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută tencuieli cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o tencuieli?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "Flooring": {
+    "title": "Pardoseli Amsterdam | AZGS",
+    "description": "Servicii profesionale de pardoseli în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Pardoseli Profesional",
+      "subtitle": "Executăm pardoseli de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută pardoseli cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o pardoseli?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  },
+  "TileInstallation": {
+    "title": "Faianță & Gresie Amsterdam | AZGS",
+    "description": "Servicii profesionale de faianță & gresie în Amsterdam. Preț fix, fără surprize.",
+    "hero": {
+      "badge": "Renovări",
+      "title": "Faianță & Gresie Profesional",
+      "subtitle": "Executăm faianță & gresie de la A la Z. Deviz transparent, garanție calitate.",
+      "ctaPrimary": "Solicită Deviz Gratuit",
+      "ctaSecondary": "Vezi Serviciile"
+    },
+    "problem": {
+      "title": "Cauți un contractor de încredere?",
+      "text": "AZGS execută faianță & gresie cu propriii meșteri. Fără subcontractori, fără întârzieri, fără costuri ascunse."
+    },
+    "includes": {
+      "title": "Ce include serviciul?",
+      "item1": "Vizită gratuită și deviz detaliat",
+      "item2": "Meșteri proprii certificați",
+      "item3": "Materiale de calitate superioară",
+      "item4": "Curățenie zilnică a șantierului",
+      "item5": "Coordonarea tuturor lucrărilor",
+      "item6": "Garanție la predare"
+    },
+    "advantages": {
+      "title": "Avantajele AZGS",
+      "item1": "Partener all-in-one pentru renovări",
+      "item2": "Preț fix după deviz",
+      "item3": "Meșteri proprii, fără subcontractori",
+      "item4": "Predare la termen garantată"
+    },
+    "process": {
+      "title": "Procesul nostru",
+      "step1Title": "Vizită",
+      "step1Text": "Vizită gratuită la proprietatea dumneavoastră.",
+      "step2Title": "Deviz",
+      "step2Text": "Deviz detaliat cu preț fix în 48 de ore.",
+      "step3Title": "Execuție",
+      "step3Text": "Lucrări zilnice cu deranj minim.",
+      "step4Title": "Predare",
+      "step4Text": "Inspecție amănunțită și predare cu garanție."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": "Cât durează o faianță & gresie?",
+      "a1": "Durata variază per proiect. După vizită furnizăm un program realist.",
+      "q2": "AZGS lucrează cu prețuri fixe?",
+      "a2": "Da, preț fix după deviz. Fără extra-costuri decât la solicitarea dumneavoastră.",
+      "q3": "Pot rămâne acasă în timpul renovării?",
+      "a3": "De obicei da. Discutăm la vizita inițială.",
+      "q4": "Se ocupă AZGS de autorizații?",
+      "a4": "Da, ne ocupăm de toate autorizațiile necesare.",
+      "q5": "Oferă AZGS garanție?",
+      "a5": "Da, garanție 12 luni pentru toate lucrările."
+    },
+    "cta": {
+      "title": "Gata pentru renovare?",
+      "text": "Solicitați o vizită și deviz gratuit.",
+      "btn": "Solicită Deviz Gratuit"
+    }
+  }
+}

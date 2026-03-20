@@ -1,0 +1,542 @@
+{
+  "ServicesIndex": {
+    "title": "Installation Services Amsterdam | AZGS",
+    "description": "Professional installation services services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Installation Services",
+      "subtitle": "Expert installation services services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your installation services?",
+      "text": "AZGS resolves your installation services problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Plumbing": {
+    "title": "Plumbing Amsterdam | AZGS",
+    "description": "Professional plumbing services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Plumbing",
+      "subtitle": "Expert plumbing services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your plumbing?",
+      "text": "AZGS resolves your plumbing problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Electrical": {
+    "title": "Electrical Amsterdam | AZGS",
+    "description": "Professional electrical services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Electrical",
+      "subtitle": "Expert electrical services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your electrical?",
+      "text": "AZGS resolves your electrical problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Heating": {
+    "title": "Heating Amsterdam | AZGS",
+    "description": "Professional heating services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Heating",
+      "subtitle": "Expert heating services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your heating?",
+      "text": "AZGS resolves your heating problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "Ventilation": {
+    "title": "Ventilation Amsterdam | AZGS",
+    "description": "Professional ventilation services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Ventilation",
+      "subtitle": "Expert ventilation services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your ventilation?",
+      "text": "AZGS resolves your ventilation problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "AirConditioning": {
+    "title": "Air Conditioning Amsterdam | AZGS",
+    "description": "Professional air conditioning services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Air Conditioning",
+      "subtitle": "Expert air conditioning services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your air conditioning?",
+      "text": "AZGS resolves your air conditioning problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "UnderfloorHeating": {
+    "title": "Underfloor Heating Amsterdam | AZGS",
+    "description": "Professional underfloor heating services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Underfloor Heating",
+      "subtitle": "Expert underfloor heating services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your underfloor heating?",
+      "text": "AZGS resolves your underfloor heating problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "BoilerInstallation": {
+    "title": "Boiler Installation Amsterdam | AZGS",
+    "description": "Professional boiler installation services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Boiler Installation",
+      "subtitle": "Expert boiler installation services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your boiler installation?",
+      "text": "AZGS resolves your boiler installation problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  },
+  "HeatPump": {
+    "title": "Heat Pump Amsterdam | AZGS",
+    "description": "Professional heat pump services in Amsterdam. Certified technicians, fast response.",
+    "hero": {
+      "badge": "Installation Services",
+      "title": "Professional Heat Pump",
+      "subtitle": "Expert heat pump services in Amsterdam. Fast, reliable and certified.",
+      "ctaPrimary": "Call Now — Free Advice",
+      "ctaSecondary": "View Our Services"
+    },
+    "problem": {
+      "title": "Issues with your heat pump?",
+      "text": "AZGS resolves your heat pump problems quickly and professionally — including emergencies outside office hours."
+    },
+    "includes": {
+      "title": "What's included?",
+      "item1": "Free inspection & quote",
+      "item2": "Certified technicians",
+      "item3": "A-brand materials",
+      "item4": "Work guarantee",
+      "item5": "Clean workspace",
+      "item6": "Detailed invoice"
+    },
+    "advantages": {
+      "title": "Why AZGS?",
+      "item1": "10+ years in Amsterdam",
+      "item2": "Certified & insured",
+      "item3": "Transparent pricing",
+      "item4": "24/7 emergency line"
+    },
+    "process": {
+      "title": "How it works",
+      "step1Title": "Contact us",
+      "step1Text": "Call or message us. We respond within 1 hour.",
+      "step2Title": "Inspection & quote",
+      "step2Text": "Free inspection and no-obligation quote.",
+      "step3Title": "Execution",
+      "step3Text": "Professional and clean work.",
+      "step4Title": "Delivery",
+      "step4Text": "Handover with guarantee and clear invoice."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How quickly can AZGS respond to an emergency?",
+      "a1": "For emergencies we are usually on-site within 1-2 hours in Amsterdam.",
+      "q2": "Does AZGS provide a work guarantee?",
+      "a2": "Yes, we provide 12 months guarantee on all work and materials.",
+      "q3": "Does AZGS work outside office hours?",
+      "a3": "Yes, our emergency line is available 24/7 including weekends.",
+      "q4": "Will I receive a quote in advance?",
+      "a4": "Always. We provide a written quote before starting. No hidden costs.",
+      "q5": "Is AZGS certified?",
+      "a5": "Yes, all our technicians are certified and work according to Dutch standards."
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "text": "Request a free quote today. We respond within 1 hour.",
+      "btn": "Request Free Quote"
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "RenovationIndex": {
+    "title": "Renovierungsarbeiten Amsterdam | AZGS",
+    "description": "Professionelle Renovierungsarbeiten in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Renovierungsarbeiten",
+      "subtitle": "Wir führen Ihre Renovierungsarbeiten von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Renovierungsarbeiten-Auftragnehmer?",
+      "text": "AZGS führt Renovierungsarbeiten mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Renovierungsarbeiten?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "ApartmentRenovation": {
+    "title": "Wohnungsrenovierung Amsterdam | AZGS",
+    "description": "Professionelle Wohnungsrenovierung in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Wohnungsrenovierung",
+      "subtitle": "Wir führen Ihre Wohnungsrenovierung von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Wohnungsrenovierung-Auftragnehmer?",
+      "text": "AZGS führt Wohnungsrenovierung mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Wohnungsrenovierung?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "BathroomRenovation": {
+    "title": "Badsanierung Amsterdam | AZGS",
+    "description": "Professionelle Badsanierung in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Badsanierung",
+      "subtitle": "Wir führen Ihre Badsanierung von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Badsanierung-Auftragnehmer?",
+      "text": "AZGS führt Badsanierung mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Badsanierung?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "KitchenRenovation": {
+    "title": "Küchenrenovierung Amsterdam | AZGS",
+    "description": "Professionelle Küchenrenovierung in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Küchenrenovierung",
+      "subtitle": "Wir führen Ihre Küchenrenovierung von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Küchenrenovierung-Auftragnehmer?",
+      "text": "AZGS führt Küchenrenovierung mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Küchenrenovierung?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Drywall": {
+    "title": "Trockenbau Amsterdam | AZGS",
+    "description": "Professionelle Trockenbau in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Trockenbau",
+      "subtitle": "Wir führen Ihre Trockenbau von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Trockenbau-Auftragnehmer?",
+      "text": "AZGS führt Trockenbau mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Trockenbau?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Painting": {
+    "title": "Malerarbeiten Amsterdam | AZGS",
+    "description": "Professionelle Malerarbeiten in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Malerarbeiten",
+      "subtitle": "Wir führen Ihre Malerarbeiten von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Malerarbeiten-Auftragnehmer?",
+      "text": "AZGS führt Malerarbeiten mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Malerarbeiten?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Plastering": {
+    "title": "Putzarbeiten Amsterdam | AZGS",
+    "description": "Professionelle Putzarbeiten in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Putzarbeiten",
+      "subtitle": "Wir führen Ihre Putzarbeiten von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Putzarbeiten-Auftragnehmer?",
+      "text": "AZGS führt Putzarbeiten mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Putzarbeiten?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "Flooring": {
+    "title": "Bodenbelagsarbeiten Amsterdam | AZGS",
+    "description": "Professionelle Bodenbelagsarbeiten in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Bodenbelagsarbeiten",
+      "subtitle": "Wir führen Ihre Bodenbelagsarbeiten von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Bodenbelagsarbeiten-Auftragnehmer?",
+      "text": "AZGS führt Bodenbelagsarbeiten mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Bodenbelagsarbeiten?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  },
+  "TileInstallation": {
+    "title": "Fliesenarbeiten Amsterdam | AZGS",
+    "description": "Professionelle Fliesenarbeiten in Amsterdam. Fachkundige Ausführung, Festpreis, keine Überraschungen.",
+    "hero": {
+      "badge": "Renovierung",
+      "title": "Fachkundige Fliesenarbeiten",
+      "subtitle": "Wir führen Ihre Fliesenarbeiten von A bis Z durch. Transparentes Angebot, Qualitätsgarantie.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Leistungen Ansehen"
+    },
+    "problem": {
+      "title": "Suchen Sie einen zuverlässigen Fliesenarbeiten-Auftragnehmer?",
+      "text": "AZGS führt Fliesenarbeiten mit eigenen Handwerkern aus. Keine Subunternehmer, keine Verzögerungen, keine versteckten Kosten."
+    },
+    "includes": {
+      "title": "Was ist enthalten?",
+      "item1": "Kostenloser Besichtigungstermin & detailliertes Angebot",
+      "item2": "Eigene zertifizierte Handwerker",
+      "item3": "Hochwertige Materialien",
+      "item4": "Tägliche Reinigung der Baustelle",
+      "item5": "Koordination aller Arbeiten",
+      "item6": "Übergabegarantie"
+    },
+    "advantages": {
+      "title": "Vorteile von AZGS",
+      "item1": "All-in-one Renovierungspartner",
+      "item2": "Festpreis nach Angebot",
+      "item3": "Eigene Handwerker, keine Subunternehmer",
+      "item4": "Pünktliche Fertigstellung garantiert"
+    },
+    "process": {
+      "title": "Unser Ablauf",
+      "step1Title": "Besichtigung",
+      "step1Text": "Kostenloser Besichtigungstermin.",
+      "step2Title": "Angebot",
+      "step2Text": "Detailliertes Festpreisangebot innerhalb 48 Stunden.",
+      "step3Title": "Ausführung",
+      "step3Text": "Tägliche Arbeiten mit minimaler Beeinträchtigung.",
+      "step4Title": "Übergabe",
+      "step4Text": "Gründliche Inspektion und Übergabe mit Garantie."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": "Wie lange dauert eine typische Fliesenarbeiten?",
+      "a1": "Die Dauer variiert je nach Projekt. Nach der Besichtigung erstellen wir einen realistischen Zeitplan.",
+      "q2": "Arbeitet AZGS mit Festpreisen?",
+      "a2": "Ja, Festpreis nach dem Angebot. Keine Extras, es sei denn auf Ihren Wunsch.",
+      "q3": "Kann ich während der Renovierung zu Hause bleiben?",
+      "a3": "Meistens ja. Wir besprechen dies bei der Besichtigung.",
+      "q4": "Kümmert sich AZGS um Genehmigungen?",
+      "a4": "Ja, wir übernehmen alle erforderlichen Genehmigungen.",
+      "q5": "Gibt AZGS eine Garantie?",
+      "a5": "Ja, 12 Monate Garantie auf alle Arbeiten."
+    },
+    "cta": {
+      "title": "Bereit für Ihre Renovierung?",
+      "text": "Fordern Sie eine kostenlose Besichtigung und ein Angebot an.",
+      "btn": "Kostenloses Angebot Anfordern"
+    }
+  }
+}

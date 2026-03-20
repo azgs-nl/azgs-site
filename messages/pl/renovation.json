@@ -1,0 +1,542 @@
+{
+  "RenovationIndex": {
+    "title": "Usługi Renowacyjne Amsterdam | AZGS",
+    "description": "Profesjonalny usługi renowacyjne w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Usługi Renowacyjne",
+      "subtitle": "Realizujemy usługi renowacyjne od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy usługi renowacyjne?",
+      "text": "AZGS realizuje usługi renowacyjne własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy usługi renowacyjne?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "ApartmentRenovation": {
+    "title": "Remont Mieszkania Amsterdam | AZGS",
+    "description": "Profesjonalny remont mieszkania w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Remont Mieszkania",
+      "subtitle": "Realizujemy remont mieszkania od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy remont mieszkania?",
+      "text": "AZGS realizuje remont mieszkania własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy remont mieszkania?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "BathroomRenovation": {
+    "title": "Remont Łazienki Amsterdam | AZGS",
+    "description": "Profesjonalny remont łazienki w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Remont Łazienki",
+      "subtitle": "Realizujemy remont łazienki od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy remont łazienki?",
+      "text": "AZGS realizuje remont łazienki własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy remont łazienki?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "KitchenRenovation": {
+    "title": "Remont Kuchni Amsterdam | AZGS",
+    "description": "Profesjonalny remont kuchni w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Remont Kuchni",
+      "subtitle": "Realizujemy remont kuchni od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy remont kuchni?",
+      "text": "AZGS realizuje remont kuchni własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy remont kuchni?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Drywall": {
+    "title": "Zabudowa Gipsowa Amsterdam | AZGS",
+    "description": "Profesjonalny zabudowa gipsowa w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Zabudowa Gipsowa",
+      "subtitle": "Realizujemy zabudowa gipsowa od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy zabudowa gipsowa?",
+      "text": "AZGS realizuje zabudowa gipsowa własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy zabudowa gipsowa?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Painting": {
+    "title": "Malowanie Amsterdam | AZGS",
+    "description": "Profesjonalny malowanie w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Malowanie",
+      "subtitle": "Realizujemy malowanie od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy malowanie?",
+      "text": "AZGS realizuje malowanie własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy malowanie?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Plastering": {
+    "title": "Tynkowanie Amsterdam | AZGS",
+    "description": "Profesjonalny tynkowanie w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Tynkowanie",
+      "subtitle": "Realizujemy tynkowanie od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy tynkowanie?",
+      "text": "AZGS realizuje tynkowanie własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy tynkowanie?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "Flooring": {
+    "title": "Układanie Podłóg Amsterdam | AZGS",
+    "description": "Profesjonalny układanie podłóg w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Układanie Podłóg",
+      "subtitle": "Realizujemy układanie podłóg od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy układanie podłóg?",
+      "text": "AZGS realizuje układanie podłóg własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy układanie podłóg?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  },
+  "TileInstallation": {
+    "title": "Układanie Płytek Amsterdam | AZGS",
+    "description": "Profesjonalny układanie płytek w Amsterdamie. Stała cena, bez niespodzianek.",
+    "hero": {
+      "badge": "Renowacje",
+      "title": "Profesjonalny Układanie Płytek",
+      "subtitle": "Realizujemy układanie płytek od A do Z. Przejrzysta wycena, gwarancja jakości.",
+      "ctaPrimary": "Bezpłatna Wycena",
+      "ctaSecondary": "Zobacz Usługi"
+    },
+    "problem": {
+      "title": "Szukasz rzetelnego wykonawcy układanie płytek?",
+      "text": "AZGS realizuje układanie płytek własnymi rzemieślnikami. Bez podwykonawców, bez opóźnień, bez ukrytych kosztów."
+    },
+    "includes": {
+      "title": "Co jest wliczone?",
+      "item1": "Bezpłatna wizja lokalna i szczegółowa wycena",
+      "item2": "Własni certyfikowani rzemieślnicy",
+      "item3": "Materiały najwyższej jakości",
+      "item4": "Codzienne sprzątanie placu budowy",
+      "item5": "Koordynacja wszystkich prac",
+      "item6": "Gwarancja odbioru"
+    },
+    "advantages": {
+      "title": "Zalety AZGS",
+      "item1": "Kompleksowy partner renowacyjny",
+      "item2": "Stała cena po wycenie",
+      "item3": "Własni rzemieślnicy, bez podwykonawców",
+      "item4": "Terminowe zakończenie gwarantowane"
+    },
+    "process": {
+      "title": "Nasz proces",
+      "step1Title": "Wizja lokalna",
+      "step1Text": "Bezpłatna wizja lokalna.",
+      "step2Title": "Wycena",
+      "step2Text": "Szczegółowa wycena ze stałą ceną w 48 godzin.",
+      "step3Title": "Realizacja",
+      "step3Text": "Codzienne prace z minimalną uciążliwością.",
+      "step4Title": "Odbiór",
+      "step4Text": "Dokładna inspekcja i odbiór z gwarancją."
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Jak długo trwa typowy układanie płytek?",
+      "a1": "Czas trwania zależy od projektu. Po wizji podamy realistyczny harmonogram.",
+      "q2": "Czy AZGS pracuje ze stałymi cenami?",
+      "a2": "Tak, stała cena po wycenie. Bez dodatkowych kosztów.",
+      "q3": "Czy mogę zostać w domu podczas remontu?",
+      "a3": "Zazwyczaj tak. Omówimy to podczas wizji.",
+      "q4": "Czy AZGS zajmuje się pozwoleniami?",
+      "a4": "Tak, zajmujemy się wszystkimi pozwoleniami.",
+      "q5": "Czy AZGS udziela gwarancji?",
+      "a5": "Tak, 12 miesięcy gwarancji na wszystkie prace."
+    },
+    "cta": {
+      "title": "Gotowy na remont?",
+      "text": "Poproś o bezpłatną wizję i wycenę.",
+      "btn": "Poproś o Bezpłatną Wycenę"
+    }
+  }
+}

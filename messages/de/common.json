@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "AZGS — Installation & Renovierung | Amsterdam",
+    "description": "Professionelle Sanitär-, Elektro-, Heizungs- und Renovierungsarbeiten in Amsterdam. 24/7 Notdienst."
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "services": "Installationstechnik",
+    "renovation": "Renovierung",
+    "emergency": "Notdienst 24/7",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "cta": "Jetzt Anrufen",
+    "plumbing": "Sanitär",
+    "electrical": "Elektrik",
+    "heating": "Heizung",
+    "ventilation": "Lüftung",
+    "airConditioning": "Klimaanlage",
+    "underfloorHeating": "Fußbodenheizung",
+    "boilerInstallation": "Kesselinstallation",
+    "heatPump": "Wärmepumpe",
+    "apartmentRenovation": "Wohnungsrenovierung",
+    "bathroomRenovation": "Badsanierung",
+    "kitchenRenovation": "Küchenrenovierung",
+    "drywall": "Trockenbau",
+    "painting": "Malerarbeiten",
+    "plastering": "Putzarbeiten",
+    "flooring": "Bodenbeläge",
+    "tileInstallation": "Fliesenarbeiten",
+    "projects": "Projekte"
+  },
+  "Footer": {
+    "tagline": "Ihr zuverlässiger Partner für Installationen und Renovierungen in Amsterdam.",
+    "linksTitle": "Navigation",
+    "contactTitle": "Kontakt",
+    "linkHome": "Startseite",
+    "linkAbout": "Über Uns",
+    "linkServices": "Leistungen",
+    "linkContact": "Kontakt",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "allRights": "Alle Rechte vorbehalten.",
+    "serviceArea": "Amsterdam & Umgebung"
+  }
+}
