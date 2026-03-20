@@ -6,6 +6,10 @@ import { applySecurityHeaders } from './src/lib/security-headers'
 const handleI18nRouting = createIntlMiddleware(routing)
 
 export function middleware(request: NextRequest): NextResponse {
+  if (request.nextUrl.pathname === '/') {
+    return NextResponse.redirect(new URL('/nl', request.url))
+  }
+
   const nonce = Buffer.from(crypto.randomUUID()).toString('base64')
 
   const requestHeaders = new Headers(request.headers)
