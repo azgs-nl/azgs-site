@@ -1,20 +1,37 @@
 {
   "Home": {
-    "badge": "Welcome to AZGS",
-    "heroTitle": "Professional services across the Netherlands",
-    "heroSubtitle": "We provide reliable and personal service for businesses and individuals. Handled quickly, always transparent.",
-    "ctaPrimary": "Get in touch",
+    "badge": "Technical Installations & Renovation",
+    "heroTitle": "Your specialist for installations and renovation in Amsterdam",
+    "heroSubtitle": "From plumbing and electrical work to complete bathroom and kitchen renovations. AZGS delivers professional results, fast response and fair pricing.",
+    "ctaPrimary": "Request a quote",
     "ctaSecondary": "View our services",
-    "featuresTitle": "Why choose AZGS?",
-    "featuresSubtitle": "Our clients choose us because we combine quality, reliability and personal attention.",
-    "feature1Title": "Reliable",
-    "feature1Text": "For years we have delivered consistent quality. Our clients know they can count on us.",
-    "feature2Title": "Personal",
-    "feature2Text": "Not a large anonymous organisation. You always have a dedicated contact who knows your situation.",
-    "feature3Title": "Transparent",
-    "feature3Text": "Clear rates, no surprises. You always know in advance what to expect.",
-    "ctaBannerTitle": "Ready to get started?",
-    "ctaBannerText": "Contact us today and receive a no-obligation quote within 24 hours.",
-    "ctaBannerBtn": "Request a quote"
+    "featuresTitle": "Why clients choose AZGS",
+    "featuresSubtitle": "We combine technical expertise with reliable scheduling and clear communication throughout every project.",
+    "feature1Title": "Fast response",
+    "feature1Text": "For breakdowns and emergencies we are typically on-site within 1–2 hours in Amsterdam and surroundings, including outside office hours.",
+    "feature2Title": "Fixed price agreements",
+    "feature2Text": "You always receive a written quote before work begins. No unexpected costs, no hidden charges at the end of the job.",
+    "feature3Title": "One contractor for everything",
+    "feature3Text": "Installations and renovations handled by one team. Less coordination, better planning, one point of contact.",
+    "ctaBannerTitle": "Need a quote or advice?",
+    "ctaBannerText": "Call us or send a message. We respond within 1 hour on working days and are available 24/7 for emergencies.",
+    "ctaBannerBtn": "Contact us",
+    "servicesSectionTitle": "Our two core areas",
+    "servicesSectionSubtitle": "AZGS provides both technical installation services and complete renovation projects in Amsterdam and surrounding areas.",
+    "services": [
+      {
+        "title": "Technical Installations",
+        "description": "Plumbing, electrical, heating, ventilation, air conditioning, underfloor heating, boiler installation and heat pumps. Certified and compliant with Dutch standards.",
+        "ctaLabel": "View installation services"
+      },
+      {
+        "title": "Renovation",
+        "description": "Bathroom and kitchen renovations, drywall, painting, plastering, flooring and tiling. From minor adjustments to complete project renovations.",
+        "ctaLabel": "View renovation services"
+      }
+    ],
+    "emergencyTitle": "Emergency? We are available 24/7",
+    "emergencyDescription": "Leak, electrical fault or boiler breakdown? Our emergency line is available day and night. On-site within 1–2 hours in Amsterdam.",
+    "emergencyCallLabel": "Call emergency line"
   }
 }

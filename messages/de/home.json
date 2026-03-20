@@ -1,20 +1,37 @@
 {
   "Home": {
-    "badge": "Willkommen bei AZGS",
-    "heroTitle": "Professionelle Dienstleistungen in ganz Holland",
-    "heroSubtitle": "Wir bieten zuverlässige und persönliche Dienstleistungen für Unternehmen und Privatpersonen. Schnell erledigt, immer transparent.",
-    "ctaPrimary": "Kontakt aufnehmen",
-    "ctaSecondary": "Unsere Leistungen",
-    "featuresTitle": "Warum AZGS wählen?",
-    "featuresSubtitle": "Unsere Kunden wählen uns, weil wir Qualität, Zuverlässigkeit und persönliche Betreuung vereinen.",
-    "feature1Title": "Zuverlässig",
-    "feature1Text": "Seit Jahren liefern wir konstante Qualität. Unsere Kunden wissen, dass sie auf uns zählen können.",
-    "feature2Title": "Persönlich",
-    "feature2Text": "Keine große anonyme Organisation. Sie haben immer einen festen Ansprechpartner, der Ihre Situation kennt.",
-    "feature3Title": "Transparent",
-    "feature3Text": "Klare Preise, keine Überraschungen. Sie wissen immer im Voraus, was Sie erwartet.",
-    "ctaBannerTitle": "Bereit anzufangen?",
-    "ctaBannerText": "Nehmen Sie noch heute Kontakt auf und erhalten Sie innerhalb von 24 Stunden ein unverbindliches Angebot.",
-    "ctaBannerBtn": "Angebot anfordern"
+    "badge": "Installationstechnik & Renovierung",
+    "heroTitle": "Ihr Spezialist für Installationen und Renovierungen in Amsterdam",
+    "heroSubtitle": "Von Sanitär und Elektrik bis zur kompletten Bad- und Küchenrenovierung. AZGS liefert professionelle Qualität, schnelle Reaktion und faire Preise.",
+    "ctaPrimary": "Angebot anfordern",
+    "ctaSecondary": "Leistungen ansehen",
+    "featuresTitle": "Warum Kunden AZGS wählen",
+    "featuresSubtitle": "Wir verbinden technisches Fachwissen mit zuverlässiger Planung und klarer Kommunikation.",
+    "feature1Title": "Schneller Einsatz",
+    "feature1Text": "Bei Störungen und Notfällen sind wir in der Regel innerhalb von 1–2 Stunden in Amsterdam und Umgebung — auch außerhalb der Geschäftszeiten.",
+    "feature2Title": "Festpreisvereinbarung",
+    "feature2Text": "Sie erhalten immer ein schriftliches Angebot vor Beginn der Arbeiten. Keine Nachträge, keine versteckten Kosten.",
+    "feature3Title": "Ein Auftragnehmer für alles",
+    "feature3Text": "Installationen und Renovierungen aus einer Hand. Weniger Koordinationsaufwand, ein Ansprechpartner für das gesamte Projekt.",
+    "ctaBannerTitle": "Angebot oder Beratung gewünscht?",
+    "ctaBannerText": "Rufen Sie uns an oder schreiben Sie uns. Wir antworten an Werktagen innerhalb einer Stunde und sind 24/7 für Notfälle erreichbar.",
+    "ctaBannerBtn": "Kontakt aufnehmen",
+    "servicesSectionTitle": "Unsere zwei Kernbereiche",
+    "servicesSectionSubtitle": "AZGS bietet sowohl technische Installationsleistungen als auch komplette Renovierungsprojekte in Amsterdam und Umgebung.",
+    "services": [
+      {
+        "title": "Installationstechnik",
+        "description": "Sanitär, Elektrik, Heizung, Lüftung, Klimaanlage, Fußbodenheizung, Kesselinstallation und Wärmepumpen. Zertifiziert nach niederländischen Normen.",
+        "ctaLabel": "Installationsleistungen ansehen"
+      },
+      {
+        "title": "Renovierung",
+        "description": "Bad- und Küchenrenovierungen, Trockenbau, Malerarbeiten, Putz, Bodenbeläge und Fliesenarbeiten. Von kleinen Anpassungen bis zur Komplettrenovierung.",
+        "ctaLabel": "Renovierungsleistungen ansehen"
+      }
+    ],
+    "emergencyTitle": "Notfall? Wir sind 24/7 erreichbar",
+    "emergencyDescription": "Wasserschaden, Stromausfall oder Heizungsausfall? Unser Notfalltelefon ist rund um die Uhr besetzt. Einsatz innerhalb von 1–2 Stunden in Amsterdam.",
+    "emergencyCallLabel": "Notfallnummer anrufen"
   }
 }

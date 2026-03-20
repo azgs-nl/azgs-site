@@ -1,20 +1,37 @@
 {
   "Home": {
-    "badge": "Witamy w AZGS",
-    "heroTitle": "Profesjonalne usługi w całej Holandii",
-    "heroSubtitle": "Świadczymy niezawodne i osobiste usługi dla firm i osób prywatnych. Szybko załatwione, zawsze przejrzyście.",
-    "ctaPrimary": "Skontaktuj się",
-    "ctaSecondary": "Nasze usługi",
-    "featuresTitle": "Dlaczego wybrać AZGS?",
-    "featuresSubtitle": "Nasi klienci wybierają nas, ponieważ łączymy jakość, niezawodność i osobiste podejście.",
-    "feature1Title": "Niezawodny",
-    "feature1Text": "Od lat dostarczamy stałą jakość. Nasi klienci wiedzą, że mogą na nas liczyć.",
-    "feature2Title": "Osobisty",
-    "feature2Text": "Nie jesteśmy dużą anonimową organizacją. Zawsze masz stały kontakt, który zna Twoją sytuację.",
-    "feature3Title": "Przejrzysty",
-    "feature3Text": "Jasne stawki, żadnych niespodzianek. Zawsze wiesz z góry, czego się spodziewać.",
-    "ctaBannerTitle": "Gotowy, aby zacząć?",
-    "ctaBannerText": "Skontaktuj się z nami już dziś i otrzymaj bezpłatną wycenę w ciągu 24 godzin.",
-    "ctaBannerBtn": "Zapytaj o wycenę"
+    "badge": "Instalacje Techniczne & Remonty",
+    "heroTitle": "Specjalista od instalacji i remontów w Amsterdamie",
+    "heroSubtitle": "Od hydrauliki i elektryki po kompleksowe remonty łazienek i kuchni. AZGS — profesjonalna jakość, szybka reakcja i uczciwe ceny.",
+    "ctaPrimary": "Zapytaj o wycenę",
+    "ctaSecondary": "Zobacz nasze usługi",
+    "featuresTitle": "Dlaczego klienci wybierają AZGS",
+    "featuresSubtitle": "Łączymy wiedzę techniczną z rzetelną organizacją pracy i przejrzystą komunikacją na każdym etapie.",
+    "feature1Title": "Szybki przyjazd",
+    "feature1Text": "Przy awariach i nagłych przypadkach jesteśmy na miejscu zwykle w ciągu 1–2 godzin w Amsterdamie i okolicach — również poza godzinami biurowymi.",
+    "feature2Title": "Stała cena z góry",
+    "feature2Text": "Zawsze otrzymujesz pisemną wycenę przed rozpoczęciem prac. Żadnych dodatkowych kosztów, żadnych niespodzianek na końcu.",
+    "feature3Title": "Jeden wykonawca — wszystko załatwione",
+    "feature3Text": "Instalacje i remonty wykonuje ten sam zespół. Mniej koordynacji, jeden punkt kontaktowy dla całego projektu.",
+    "ctaBannerTitle": "Potrzebujesz wyceny lub porady?",
+    "ctaBannerText": "Zadzwoń lub napisz. Odpowiadamy w ciągu 1 godziny w dni robocze i jesteśmy dostępni 24/7 w nagłych przypadkach.",
+    "ctaBannerBtn": "Skontaktuj się z nami",
+    "servicesSectionTitle": "Nasze dwa główne obszary",
+    "servicesSectionSubtitle": "AZGS realizuje zarówno techniczne usługi instalacyjne, jak i kompleksowe projekty remontowe w Amsterdamie i okolicach.",
+    "services": [
+      {
+        "title": "Instalacje Techniczne",
+        "description": "Hydraulika, elektryka, ogrzewanie, wentylacja, klimatyzacja, ogrzewanie podłogowe, instalacja kotłów i pomp ciepła. Certyfikowane zgodnie z normami holenderskimi.",
+        "ctaLabel": "Zobacz usługi instalacyjne"
+      },
+      {
+        "title": "Remonty",
+        "description": "Remonty łazienek i kuchni, zabudowa gipsowa, malowanie, tynkowanie, podłogi i układanie płytek. Od drobnych prac po kompleksowe remonty.",
+        "ctaLabel": "Zobacz usługi remontowe"
+      }
+    ],
+    "emergencyTitle": "Awaria? Działamy 24/7",
+    "emergencyDescription": "Zalanie, awaria elektryczna lub uszkodzony kocioł? Nasza linia awaryjna czynna jest całą dobę. Przyjeżdżamy w ciągu 1–2 godzin w Amsterdamie.",
+    "emergencyCallLabel": "Zadzwoń na linię awaryjną"
   }
 }

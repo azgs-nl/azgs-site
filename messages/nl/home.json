@@ -1,20 +1,37 @@
 {
   "Home": {
-    "badge": "Welkom bij AZGS",
-    "heroTitle": "Professionele dienstverlening voor heel Nederland",
-    "heroSubtitle": "Wij bieden betrouwbare en persoonlijke service voor bedrijven en particulieren. Snel geregeld, altijd transparant.",
-    "ctaPrimary": "Neem contact op",
+    "badge": "Installatietechniek & Renovatie",
+    "heroTitle": "Uw specialist voor installaties en renovaties — snel, vakkundig en zonder verrassingen",
+    "heroSubtitle": "Van loodgieter en elektricien tot complete badkamer- en keukenrenovaties. AZGS regelt het vakkundig, snel en tegen een eerlijke prijs.",
+    "ctaPrimary": "Vraag een offerte aan",
     "ctaSecondary": "Bekijk onze diensten",
-    "featuresTitle": "Waarom kiezen voor AZGS?",
-    "featuresSubtitle": "Onze klanten kiezen ons omdat wij kwaliteit, betrouwbaarheid en persoonlijke aandacht combineren.",
-    "feature1Title": "Betrouwbaar",
-    "feature1Text": "Al jaren bieden wij consistente kwaliteit. Onze klanten weten dat ze op ons kunnen rekenen.",
-    "feature2Title": "Persoonlijk",
-    "feature2Text": "Geen grote anonieme organisatie. U krijgt altijd een vaste contactpersoon die uw situatie kent.",
-    "feature3Title": "Transparant",
-    "feature3Text": "Duidelijke tarieven, geen verrassingen. U weet altijd vooraf wat u kunt verwachten.",
-    "ctaBannerTitle": "Klaar om te starten?",
-    "ctaBannerText": "Neem vandaag nog contact op en ontvang binnen 24 uur een vrijblijvende offerte.",
-    "ctaBannerBtn": "Vraag een offerte aan"
+    "featuresTitle": "Waarom opdrachtgevers voor AZGS kiezen",
+    "featuresSubtitle": "Wij combineren technische expertise met betrouwbare planning en heldere communicatie.",
+    "feature1Title": "Snel ter plaatse",
+    "feature1Text": "Bij storingen en spoedgevallen zijn we doorgaans binnen 1–2 uur in Amsterdam en omstreken. Ook buiten kantoortijden.",
+    "feature2Title": "Vaste prijsafspraak",
+    "feature2Text": "U ontvangt altijd een schriftelijke offerte vóór aanvang. Geen meerkosten achteraf, geen verborgen tarieven.",
+    "feature3Title": "Één aannemer, alles geregeld",
+    "feature3Text": "Installaties én renovaties onder één dak. Minder coördinatie, minder gedoe, betere afstemming.",
+    "ctaBannerTitle": "Direct een offerte of advies?",
+    "ctaBannerText": "Bel ons of stuur een bericht. We reageren binnen 1 uur op werkdagen en staan 24/7 klaar voor spoedgevallen.",
+    "ctaBannerBtn": "Neem contact op",
+    "servicesSectionTitle": "Onze twee kerngebieden",
+    "servicesSectionSubtitle": "AZGS levert zowel technische installatiediensten als complete renovatieprojecten in Amsterdam en omstreken.",
+    "services": [
+      {
+        "title": "Installatietechniek",
+        "description": "Loodgieter, elektricien, verwarming, ventilatie, airconditioning, vloerverwarming, ketelinstallatie en warmtepompen. Gecertificeerd en conform Nederlandse normen.",
+        "ctaLabel": "Bekijk installatiediensten"
+      },
+      {
+        "title": "Renovatie",
+        "description": "Badkamer- en keukenrenovaties, gipsplaten, schilderwerk, stucwerk, vloeren en tegelwerk. Van kleine aanpassingen tot complete verbouwingen.",
+        "ctaLabel": "Bekijk renovatiediensten"
+      }
+    ],
+    "emergencyTitle": "Spoed? Direct hulp bij lekkage of storing — 24/7 bereikbaar",
+    "emergencyDescription": "Lekkage, elektrische storing of CV-ketel defect? Onze spoedlijn is dag en nacht beschikbaar. Binnen 1–2 uur ter plaatse in Amsterdam.",
+    "emergencyCallLabel": "Bel spoedlijn"
   }
 }

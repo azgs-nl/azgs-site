@@ -1,20 +1,37 @@
 {
   "Home": {
-    "badge": "Bun venit la AZGS",
-    "heroTitle": "Servicii profesionale în toată Olanda",
-    "heroSubtitle": "Oferim servicii de încredere și personalizate pentru companii și persoane fizice. Rezolvat rapid, mereu transparent.",
-    "ctaPrimary": "Contactează-ne",
+    "badge": "Instalații Tehnice & Renovări",
+    "heroTitle": "Specialist în instalații și renovări în Amsterdam",
+    "heroSubtitle": "De la instalații sanitare și electrice până la renovări complete de baie și bucătărie. AZGS livrează calitate, promptitudine și prețuri corecte.",
+    "ctaPrimary": "Solicită o ofertă",
     "ctaSecondary": "Vezi serviciile noastre",
-    "featuresTitle": "De ce să alegi AZGS?",
-    "featuresSubtitle": "Clienții noștri ne aleg pentru că îmbinăm calitatea, fiabilitatea și atenția personală.",
-    "feature1Title": "De încredere",
-    "feature1Text": "De ani de zile oferim calitate consecventă. Clienții noștri știu că se pot baza pe noi.",
-    "feature2Title": "Personal",
-    "feature2Text": "Nu suntem o organizație mare și anonimă. Vei avea mereu un contact dedicat care îți cunoaște situația.",
-    "feature3Title": "Transparent",
-    "feature3Text": "Tarife clare, fără surprize. Știi mereu dinainte la ce să te aștepți.",
-    "ctaBannerTitle": "Ești gata să începi?",
-    "ctaBannerText": "Contactează-ne astăzi și primește o ofertă fără obligații în 24 de ore.",
-    "ctaBannerBtn": "Solicită o ofertă"
+    "featuresTitle": "De ce clienții aleg AZGS",
+    "featuresSubtitle": "Combinăm expertiza tehnică cu o planificare serioasă și comunicare clară pe tot parcursul proiectului.",
+    "feature1Title": "Intervenție rapidă",
+    "feature1Text": "La avarii și urgențe ajungem de obicei în 1–2 ore în Amsterdam și împrejurimi, inclusiv în afara orelor de program.",
+    "feature2Title": "Preț fix stabilit înainte",
+    "feature2Text": "Primești întotdeauna o ofertă scrisă înainte de începerea lucrărilor. Fără costuri suplimentare, fără surprize la final.",
+    "feature3Title": "Un singur contractant pentru tot",
+    "feature3Text": "Instalații și renovări executate de aceeași echipă. Coordonare simplificată, un singur punct de contact.",
+    "ctaBannerTitle": "Ai nevoie de o ofertă sau un sfat?",
+    "ctaBannerText": "Sună-ne sau trimite un mesaj. Răspundem în maxim 1 oră în zilele lucrătoare și suntem disponibili 24/7 pentru urgențe.",
+    "ctaBannerBtn": "Contactează-ne",
+    "servicesSectionTitle": "Cele două domenii principale",
+    "servicesSectionSubtitle": "AZGS oferă atât servicii de instalații tehnice cât și proiecte complete de renovare în Amsterdam și împrejurimi.",
+    "services": [
+      {
+        "title": "Instalații Tehnice",
+        "description": "Instalații sanitare, electrice, încălzire, ventilație, aer condiționat, pardoseală caldă, centrale termice și pompe de căldură. Certificat, conform normelor olandeze.",
+        "ctaLabel": "Vezi serviciile de instalații"
+      },
+      {
+        "title": "Renovări",
+        "description": "Renovări de baie și bucătărie, gips-carton, zugrăveli, tencuieli, pardoseli și faianță. De la mici modificări până la renovări complete.",
+        "ctaLabel": "Vezi serviciile de renovare"
+      }
+    ],
+    "emergencyTitle": "Urgență? Suntem disponibili 24/7",
+    "emergencyDescription": "Inundație, pană electrică sau centrală termică defectă? Linia noastră de urgență este activă zi și noapte. Intervenim în 1–2 ore în Amsterdam.",
+    "emergencyCallLabel": "Sună linia de urgență"
   }
 }
