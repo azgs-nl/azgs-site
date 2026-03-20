@@ -2,7 +2,7 @@
 
 import { useLocale } from 'next-intl'
 import { usePathname as useNativePathname } from 'next/navigation'
-import { useRouter } from '@/navigation'
+import { useRouter, usePathname } from '@/navigation'
 import { routing } from '@/i18n/routing'
 import { useState, useRef, useEffect } from 'react'
 
@@ -18,13 +18,17 @@ const localeLabels: Record<string, { short: string; label: string; flag: string 
 }
 
 export default function LanguageSwitcher() {
-  // Read locale from URL path (/ru/...) — source of truth, no hydration lag
-  const nativePathname = useNativePathname() // e.g. '/ru/servicii'
+  // useNativePathname: e.g. '/ru/servicii' — used ONLY to derive active locale for display
+  const nativePathname = useNativePathname()
   const localeFromPath = nativePathname.split('/')[1] as Locale
   const localeFromCtx  = useLocale()
   const locale = routing.locales.includes(localeFromPath) ? localeFromPath : localeFromCtx
 
+  // usePathname from @/navigation returns the typed canonical path (e.g. '/services/plumbing')
+  // already stripped of locale — used for typed router.replace
+  const canonicalPathname = usePathname()
   const router = useRouter()
+
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
 
@@ -39,10 +43,7 @@ export default function LanguageSwitcher() {
   }, [])
 
   function switchLocale(next: string) {
-    // Strip locale prefix from native path: '/ru/servicii' → '/servicii'
-    const segments = nativePathname.split('/')
-    const pathWithoutLocale = '/' + segments.slice(2).join('/')
-    router.replace(pathWithoutLocale || '/', { locale: next })
+    router.replace(canonicalPathname, { locale: next })
     setOpen(false)
   }
 
